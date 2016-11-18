@@ -1,0 +1,17 @@
+# DemoQA Application : Home Page Objects
+btn_Appln-DemoQA_MyAccount=.//*[@id='account']/a
+txtbx_Appln-DemoQA_UserName=.//*[@id='log']
+txtbx_Appln-DemoQA_Password=.//*[@id='pwd']
+btn_Appln-DemoQA_LogIn=.//*[@id='login']
+
+# DemoQA Application : LoggedIn_Page Objects
+btn_Appln-DemoQA_LogOut=.//*[@id='account_logout']/a
+
+
+# Yahoo Application : Home Page Objects
+btn_Appln-Yahoo_Username=.//*[@id='login-username']
+txtbx_Appln-Yahoo_UserName=.//*[@id='login-username']
+btn_Appln-Yahoo_Next=.//*[@id='login-signin']
+btn_Appln-Yahoo_Password=.//*[@id='login-passwd']
+txtbx_Appln-Yahoo_Password=.//*[@id='login-passwd']
+btn_Appln-Yahoo_Sigin=.//*[@id='login-signin']

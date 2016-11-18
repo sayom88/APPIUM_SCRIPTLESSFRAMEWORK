@@ -1,0 +1,1026 @@
+2016-11-11 14:55:03,443 INFO  [Log] **************************************************************************************** 
+2016-11-11 14:55:03,443 INFO  [Log] **************************************************************************************** 
+2016-11-11 14:55:03,443 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TescoMobileApp_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-11 14:55:03,443 INFO  [Log] **************************************************************************************** 
+2016-11-11 14:55:03,443 INFO  [Log] **************************************************************************************** 
+2016-11-11 14:55:03,448 INFO  [Log] Launch Mobile App 
+2016-11-11 14:55:18,254 INFO  [Log] Tapping on element //android.widget.ImageView[@resource-id='com.tesco.grocery.view:id/action_bar_up_navigation'] 
+2016-11-11 14:55:34,642 INFO  [Log] Tapping on element //android.widget.TextView[@text='Store locator'] 
+2016-11-11 14:55:42,782 INFO  [Log] Tapping on element //android.widget.EditText[@resource-id='locality'] 
+2016-11-11 14:55:49,069 INFO  [Log] Entering the text in //android.widget.EditText[@resource-id='locality'] 
+2016-11-11 14:56:01,100 INFO  [Log] Tapping on element //android.widget.Button[@content-desc='Find stores '] 
+2016-11-11 14:56:06,954 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-11-11 14:56:06,955 INFO  [Log] X 
+2016-11-11 14:56:06,955 INFO  [Log] X 
+2016-11-11 14:56:06,955 INFO  [Log] X 
+2016-11-11 14:56:06,955 INFO  [Log] X 
+2016-11-11 16:03:09,487 INFO  [Log] **************************************************************************************** 
+2016-11-11 16:03:09,488 INFO  [Log] **************************************************************************************** 
+2016-11-11 16:03:09,488 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TescoMobileApp_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-11 16:03:09,488 INFO  [Log] **************************************************************************************** 
+2016-11-11 16:03:09,488 INFO  [Log] **************************************************************************************** 
+2016-11-11 16:03:09,495 INFO  [Log] Launch Mobile App 
+2016-11-11 16:03:32,922 INFO  [Log] Tapping on element //android.widget.ImageView[@resource-id='com.tesco.grocery.view:id/action_bar_up_navigation'] 
+2016-11-11 16:03:49,413 INFO  [Log] Tapping on element //android.widget.TextView[@text='Store locator'] 
+2016-11-11 16:03:57,780 INFO  [Log] Tapping on element //android.widget.EditText[@resource-id='locality'] 
+2016-11-11 16:04:04,693 INFO  [Log] Entering the text in //android.widget.EditText[@resource-id='locality'] 
+2016-11-11 16:04:17,639 INFO  [Log] Tapping on element //android.widget.Button[@content-desc='Find stores '] 
+2016-11-11 16:17:52,688 INFO  [Log] **************************************************************************************** 
+2016-11-11 16:17:52,689 INFO  [Log] **************************************************************************************** 
+2016-11-11 16:17:52,689 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TescoMobileApp_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-11 16:17:52,689 INFO  [Log] **************************************************************************************** 
+2016-11-11 16:17:52,689 INFO  [Log] **************************************************************************************** 
+2016-11-11 16:17:52,694 INFO  [Log] Launch Mobile App 
+2016-11-11 16:18:10,854 INFO  [Log] Tapping on element //android.widget.ImageView[@resource-id='com.tesco.grocery.view:id/action_bar_up_navigation'] 
+2016-11-11 16:18:29,030 INFO  [Log] Tapping on element //android.widget.TextView[@text='Store locator'] 
+2016-11-11 16:18:37,296 INFO  [Log] Tapping on element //android.widget.EditText[@resource-id='locality'] 
+2016-11-11 16:18:43,576 INFO  [Log] Entering the text in //android.widget.EditText[@resource-id='locality'] 
+2016-11-11 16:18:56,679 INFO  [Log] Tapping on element //android.widget.Button[@content-desc='Find stores '] 
+2016-11-11 16:23:02,274 INFO  [Log] **************************************************************************************** 
+2016-11-11 16:23:02,274 INFO  [Log] **************************************************************************************** 
+2016-11-11 16:23:02,274 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TescoMobileApp_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-11 16:23:02,274 INFO  [Log] **************************************************************************************** 
+2016-11-11 16:23:02,274 INFO  [Log] **************************************************************************************** 
+2016-11-11 16:23:02,274 INFO  [Log] Launch Mobile App 
+2016-11-11 16:23:22,197 INFO  [Log] Tapping on element //android.widget.ImageView[@resource-id='com.tesco.grocery.view:id/action_bar_up_navigation'] 
+2016-11-11 16:23:37,859 INFO  [Log] Tapping on element //android.widget.TextView[@text='Store locator'] 
+2016-11-11 16:23:46,174 INFO  [Log] Tapping on element //android.widget.EditText[@resource-id='locality'] 
+2016-11-11 16:23:52,476 INFO  [Log] Entering the text in //android.widget.EditText[@resource-id='locality'] 
+2016-11-11 16:24:05,596 INFO  [Log] Tapping on element //android.widget.Button[@content-desc='Find stores '] 
+2016-11-11 16:24:22,615 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-11-11 16:24:22,615 INFO  [Log] X 
+2016-11-11 16:24:22,615 INFO  [Log] X 
+2016-11-11 16:24:22,615 INFO  [Log] X 
+2016-11-11 16:24:22,615 INFO  [Log] X 
+2016-11-11 22:31:05,508 INFO  [Log] **************************************************************************************** 
+2016-11-11 22:31:05,508 INFO  [Log] **************************************************************************************** 
+2016-11-11 22:31:05,508 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TescoMobileApp_03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-11 22:31:05,508 INFO  [Log] **************************************************************************************** 
+2016-11-11 22:31:05,508 INFO  [Log] **************************************************************************************** 
+2016-11-11 22:31:05,517 INFO  [Log] Launch Mobile App 
+2016-11-11 22:31:08,771 INFO  [Log] Tapping on element //android.widget.ImageView[@resource-id='com.tesco.grocery.view:id/action_bar_up_navigation'] 
+2016-11-11 22:31:08,782 ERROR [Log] Not able to click --- null 
+2016-11-11 22:31:11,851 INFO  [Log] Tapping on element //android.widget.TextView[@text='Store locator'] 
+2016-11-11 22:31:11,851 ERROR [Log] Not able to click --- null 
+2016-11-11 22:31:14,923 INFO  [Log] Tapping on element //android.widget.EditText[@resource-id='locality'] 
+2016-11-11 22:31:14,923 ERROR [Log] Not able to click --- null 
+2016-11-11 22:31:17,983 INFO  [Log] Entering the text in //*[@resourceid='locality'] 
+2016-11-11 22:31:17,999 ERROR [Log] Not able to Enter UserName --- null 
+2016-11-11 22:31:21,055 INFO  [Log] Tapping on element //android.widget.Button[@content-desc='Find stores '] 
+2016-11-11 22:31:21,055 ERROR [Log] Not able to click --- null 
+2016-11-11 22:31:47,317 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-11-11 22:31:47,318 INFO  [Log] X 
+2016-11-11 22:31:47,318 INFO  [Log] X 
+2016-11-11 22:31:47,318 INFO  [Log] X 
+2016-11-11 22:31:47,318 INFO  [Log] X 
+2016-11-11 22:32:18,812 INFO  [Log] **************************************************************************************** 
+2016-11-11 22:32:18,813 INFO  [Log] **************************************************************************************** 
+2016-11-11 22:32:18,813 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TescoMobileApp_03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-11 22:32:18,813 INFO  [Log] **************************************************************************************** 
+2016-11-11 22:32:18,813 INFO  [Log] **************************************************************************************** 
+2016-11-11 22:32:18,821 INFO  [Log] Launch Mobile App 
+2016-11-11 22:32:38,590 INFO  [Log] Tapping on element //android.widget.ImageView[@resource-id='com.tesco.grocery.view:id/action_bar_up_navigation'] 
+2016-11-11 22:32:47,113 INFO  [Log] Tapping on element //android.widget.TextView[@text='Store locator'] 
+2016-11-11 22:32:54,971 INFO  [Log] Tapping on element //android.widget.EditText[@resource-id='locality'] 
+2016-11-11 22:34:15,742 ERROR [Log] Not able to click --- Element with by xpath '//android.widget.EditText[@resource-id='locality']' wasn't found.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'IBMGBS-MCM', ip: '1.1.80.10', os.name: 'Windows Server 2008 R2', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 80.75 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.78.194.225', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.tesco.grocery.view, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-11_20_32_21_2864, entityType=appium_driver, deviceName=2F984FFA, serverConnector=, platform=ANY, appActivity=md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-11_20_32_21_2864, password=, webdriver.remote.sessionid=0e6b9bc4-2bf8-400a-bdce-e86a0ee47cd2, platformVersion=5.0, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161111/RemoteWebDriver_16-11-11_20_32_21_2864.xml&ownerId=sayoghos@in.ibm.com&sharingCode=18350b51-6ca1-42be-9a81-ae6cc9c9d601, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161111/RemoteWebDriver_16-11-11_20_32_21_2864.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161111/RemoteWebDriver_16-11-11_20_32_21_2864.xml&ownerId=sayoghos@in.ibm.com&sharingCode=18350b51-6ca1-42be-9a81-ae6cc9c9d601, user=, cssSelectorsEnabled=true}]
+Session ID: 0e6b9bc4-2bf8-400a-bdce-e86a0ee47cd2
+*** Element info: {Using=xpath, value=//android.widget.EditText[@resource-id='locality']} 
+2016-11-11 22:34:18,792 INFO  [Log] Entering the text in //*[@resourceid='locality'] 
+2016-11-11 22:35:39,349 ERROR [Log] Not able to Enter UserName --- Element with by xpath '//*[@resourceid='locality']' wasn't found.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'IBMGBS-MCM', ip: '1.1.80.10', os.name: 'Windows Server 2008 R2', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 80.54 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.78.194.225', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.tesco.grocery.view, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-11_20_32_21_2864, entityType=appium_driver, deviceName=2F984FFA, serverConnector=, platform=ANY, appActivity=md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-11_20_32_21_2864, password=, webdriver.remote.sessionid=0e6b9bc4-2bf8-400a-bdce-e86a0ee47cd2, platformVersion=5.0, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161111/RemoteWebDriver_16-11-11_20_32_21_2864.xml&ownerId=sayoghos@in.ibm.com&sharingCode=18350b51-6ca1-42be-9a81-ae6cc9c9d601, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161111/RemoteWebDriver_16-11-11_20_32_21_2864.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161111/RemoteWebDriver_16-11-11_20_32_21_2864.xml&ownerId=sayoghos@in.ibm.com&sharingCode=18350b51-6ca1-42be-9a81-ae6cc9c9d601, user=, cssSelectorsEnabled=true}]
+Session ID: 0e6b9bc4-2bf8-400a-bdce-e86a0ee47cd2
+*** Element info: {Using=xpath, value=//*[@resourceid='locality']} 
+2016-11-11 22:35:42,417 INFO  [Log] Tapping on element //android.widget.Button[@content-desc='Find stores '] 
+2016-11-11 22:35:42,942 ERROR [Log] Not able to click --- Failed to execute command application.element find: findElements command failed. Reason: handset server: server is busy processing another request [/clear-popups]
+Command duration or timeout: 524 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.78.194.225', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.tesco.grocery.view, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-11_20_32_21_2864, entityType=appium_driver, deviceName=2F984FFA, serverConnector=, platform=ANY, appActivity=md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-11_20_32_21_2864, password=, webdriver.remote.sessionid=0e6b9bc4-2bf8-400a-bdce-e86a0ee47cd2, platformVersion=5.0, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161111/RemoteWebDriver_16-11-11_20_32_21_2864.xml&ownerId=sayoghos@in.ibm.com&sharingCode=18350b51-6ca1-42be-9a81-ae6cc9c9d601, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161111/RemoteWebDriver_16-11-11_20_32_21_2864.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161111/RemoteWebDriver_16-11-11_20_32_21_2864.xml&ownerId=sayoghos@in.ibm.com&sharingCode=18350b51-6ca1-42be-9a81-ae6cc9c9d601, user=, cssSelectorsEnabled=true}]
+Session ID: 0e6b9bc4-2bf8-400a-bdce-e86a0ee47cd2
+*** Element info: {Using=xpath, value=//android.widget.Button[@content-desc='Find stores ']} 
+2016-11-11 22:36:05,457 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-11-11 22:36:05,457 INFO  [Log] X 
+2016-11-11 22:36:05,457 INFO  [Log] X 
+2016-11-11 22:36:05,457 INFO  [Log] X 
+2016-11-11 22:36:05,457 INFO  [Log] X 
+2016-11-12 12:27:42,503 INFO  [Log] **************************************************************************************** 
+2016-11-12 12:27:42,504 INFO  [Log] **************************************************************************************** 
+2016-11-12 12:27:42,504 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TescoMobileApp_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-12 12:27:42,504 INFO  [Log] **************************************************************************************** 
+2016-11-12 12:27:42,504 INFO  [Log] **************************************************************************************** 
+2016-11-12 12:27:42,511 INFO  [Log] Launch Mobile App 
+2016-11-12 12:28:11,046 INFO  [Log] Tapping on element //android.widget.ImageView[@resource-id='com.tesco.grocery.view:id/action_bar_up_navigation'] 
+2016-11-12 12:29:31,333 ERROR [Log] Not able to click --- An unknown server-side error occurred while processing the command. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 80.24 seconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.78.194.225', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.tesco.grocery.view, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=4200fe92d47572d1, platform=LINUX, appActivity=md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity, desired={appPackage=com.tesco.grocery.view, appActivity=md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity, platformVersion=5.1.1, automationName=Appium, platformName=Android, deviceName=4200fe92d47572d1}, platformVersion=5.1.1, webStorageEnabled=false, locationContextEnabled=false, automationName=Appium, browserName=Android, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: f44b6d9b-7cc5-42dc-9124-c48093ebf47d
+*** Element info: {Using=xpath, value=//android.widget.ImageView[@resource-id='com.tesco.grocery.view:id/action_bar_up_navigation']} 
+2016-11-12 12:29:34,414 INFO  [Log] Tapping on element //android.widget.TextView[@text='Store locator'] 
+2016-11-12 12:29:34,421 ERROR [Log] Not able to click --- 
+Command duration or timeout: 6 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.78.194.225', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.tesco.grocery.view, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=4200fe92d47572d1, platform=LINUX, appActivity=md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity, desired={appPackage=com.tesco.grocery.view, appActivity=md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity, platformVersion=5.1.1, automationName=Appium, platformName=Android, deviceName=4200fe92d47572d1}, platformVersion=5.1.1, webStorageEnabled=false, locationContextEnabled=false, automationName=Appium, browserName=Android, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: f44b6d9b-7cc5-42dc-9124-c48093ebf47d
+*** Element info: {Using=xpath, value=//android.widget.TextView[@text='Store locator']} 
+2016-11-12 12:29:37,505 INFO  [Log] Tapping on element //android.widget.EditText[@resource-id='locality'] 
+2016-11-12 12:29:37,513 ERROR [Log] Not able to click --- 
+Command duration or timeout: 6 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.78.194.225', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.tesco.grocery.view, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=4200fe92d47572d1, platform=LINUX, appActivity=md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity, desired={appPackage=com.tesco.grocery.view, appActivity=md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity, platformVersion=5.1.1, automationName=Appium, platformName=Android, deviceName=4200fe92d47572d1}, platformVersion=5.1.1, webStorageEnabled=false, locationContextEnabled=false, automationName=Appium, browserName=Android, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: f44b6d9b-7cc5-42dc-9124-c48093ebf47d
+*** Element info: {Using=xpath, value=//android.widget.EditText[@resource-id='locality']} 
+2016-11-12 12:29:40,651 INFO  [Log] Entering the text in //android.widget.EditText[@resource-id='locality'] 
+2016-11-12 12:29:40,664 ERROR [Log] Not able to Enter UserName --- 
+Command duration or timeout: 5 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.78.194.225', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.tesco.grocery.view, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=4200fe92d47572d1, platform=LINUX, appActivity=md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity, desired={appPackage=com.tesco.grocery.view, appActivity=md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity, platformVersion=5.1.1, automationName=Appium, platformName=Android, deviceName=4200fe92d47572d1}, platformVersion=5.1.1, webStorageEnabled=false, locationContextEnabled=false, automationName=Appium, browserName=Android, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: f44b6d9b-7cc5-42dc-9124-c48093ebf47d
+*** Element info: {Using=xpath, value=//android.widget.EditText[@resource-id='locality']} 
+2016-11-12 12:29:43,728 INFO  [Log] Tapping on element //android.widget.Button[@content-desc='Find stores '] 
+2016-11-12 12:29:43,735 ERROR [Log] Not able to click --- 
+Command duration or timeout: 5 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.78.194.225', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.tesco.grocery.view, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=4200fe92d47572d1, platform=LINUX, appActivity=md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity, desired={appPackage=com.tesco.grocery.view, appActivity=md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity, platformVersion=5.1.1, automationName=Appium, platformName=Android, deviceName=4200fe92d47572d1}, platformVersion=5.1.1, webStorageEnabled=false, locationContextEnabled=false, automationName=Appium, browserName=Android, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: f44b6d9b-7cc5-42dc-9124-c48093ebf47d
+*** Element info: {Using=xpath, value=//android.widget.Button[@content-desc='Find stores ']} 
+2016-11-12 12:30:11,374 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-11-12 12:30:11,374 INFO  [Log] X 
+2016-11-12 12:30:11,374 INFO  [Log] X 
+2016-11-12 12:30:11,374 INFO  [Log] X 
+2016-11-12 12:30:11,374 INFO  [Log] X 
+2016-11-12 12:34:50,322 INFO  [Log] **************************************************************************************** 
+2016-11-12 12:34:50,322 INFO  [Log] **************************************************************************************** 
+2016-11-12 12:34:50,322 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TescoMobileApp_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-12 12:34:50,322 INFO  [Log] **************************************************************************************** 
+2016-11-12 12:34:50,322 INFO  [Log] **************************************************************************************** 
+2016-11-12 12:34:50,329 INFO  [Log] Launch Mobile App 
+2016-11-12 12:35:16,220 INFO  [Log] Tapping on element //android.widget.ImageView[@resource-id='com.tesco.grocery.view:id/action_bar_up_navigation'] 
+2016-11-12 12:35:32,257 INFO  [Log] Tapping on element //android.widget.TextView[@text='Store locator'] 
+2016-11-12 12:35:40,636 INFO  [Log] Tapping on element //android.widget.EditText[@resource-id='locality'] 
+2016-11-12 12:35:47,149 INFO  [Log] Entering the text in //android.widget.EditText[@resource-id='locality'] 
+2016-11-12 12:35:59,493 INFO  [Log] Tapping on element //android.widget.Button[@content-desc='Find stores '] 
+2016-11-12 12:36:33,189 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-11-12 12:36:33,189 INFO  [Log] X 
+2016-11-12 12:36:33,189 INFO  [Log] X 
+2016-11-12 12:36:33,189 INFO  [Log] X 
+2016-11-12 12:36:33,189 INFO  [Log] X 
+2016-11-13 11:40:34,509 INFO  [Log] **************************************************************************************** 
+2016-11-13 11:40:34,509 INFO  [Log] **************************************************************************************** 
+2016-11-13 11:40:34,509 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TescoMobileApp_03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-13 11:40:34,509 INFO  [Log] **************************************************************************************** 
+2016-11-13 11:40:34,509 INFO  [Log] **************************************************************************************** 
+2016-11-13 11:40:34,512 INFO  [Log] Launch Mobile App 
+2016-11-13 11:40:53,506 INFO  [Log] Tapping on element //android.widget.ImageView[@resource-id='com.tesco.grocery.view:id/action_bar_up_navigation'] 
+2016-11-13 11:41:02,712 INFO  [Log] Tapping on element //android.widget.TextView[@text='Store locator'] 
+2016-11-13 11:41:11,126 INFO  [Log] Tapping on element //*[@id='locality'] 
+2016-11-13 11:41:20,296 INFO  [Log] Entering the text in //*[@id='locality'] 
+2016-11-13 11:41:22,750 ERROR [Log] Not able to Enter UserName --- Failed to execute command browser navigate: browser-navigate-back command failed. Reason: handset server: the application on top does not support this operation
+Command duration or timeout: 687 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '192.168.1.35', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.tesco.grocery.view, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-13_09_40_35_2905, entityType=appium_driver, deviceName=2F984FFA, serverConnector=, platform=ANY, appActivity=md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-13_09_40_35_2905, password=, webdriver.remote.sessionid=2ef5b13f-4f8e-47b5-b5cb-7ad7064f9680, platformVersion=5.0, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161113/RemoteWebDriver_16-11-13_09_40_35_2905.xml&ownerId=sayoghos@in.ibm.com&sharingCode=470e1ad0-1202-4f04-9eed-f470f5d7d018, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161113/RemoteWebDriver_16-11-13_09_40_35_2905.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161113/RemoteWebDriver_16-11-13_09_40_35_2905.xml&ownerId=sayoghos@in.ibm.com&sharingCode=470e1ad0-1202-4f04-9eed-f470f5d7d018, user=, cssSelectorsEnabled=true}]
+Session ID: 2ef5b13f-4f8e-47b5-b5cb-7ad7064f9680 
+2016-11-13 11:41:25,804 INFO  [Log] Tapping on element //*[@id='findStores'] 
+2016-11-14 11:28:46,703 INFO  [Log] **************************************************************************************** 
+2016-11-14 11:28:46,704 INFO  [Log] **************************************************************************************** 
+2016-11-14 11:28:46,704 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TescoMobileApp_03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-14 11:28:46,704 INFO  [Log] **************************************************************************************** 
+2016-11-14 11:28:46,704 INFO  [Log] **************************************************************************************** 
+2016-11-14 11:28:46,713 INFO  [Log] Launch Mobile App 
+2016-11-14 11:29:15,221 INFO  [Log] Tapping on element //android.widget.ImageView[@resource-id='com.tesco.grocery.view:id/action_bar_up_navigation'] 
+2016-11-14 11:29:26,848 INFO  [Log] Tapping on element //android.widget.TextView[@text='Store locator'] 
+2016-11-14 11:29:35,916 INFO  [Log] Tapping on element //*[@id='locality'] 
+2016-11-14 11:33:39,221 ERROR [Log] Not able to click --- Failed to execute command webpage.element find: findElements command failed. Reason: handset server: cannot find webview element.
+Command duration or timeout: 243.12 seconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.253.75', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.tesco.grocery.view, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-14_09_28_49_2989, entityType=appium_driver, deviceName=2F984FFA, serverConnector=, platform=ANY, appActivity=md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-14_09_28_49_2989, password=, webdriver.remote.sessionid=11436f88-99c9-42d4-a172-885fe881de84, platformVersion=5.0, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_09_28_49_2989.xml&ownerId=sayoghos@in.ibm.com&sharingCode=f405f205-dcd2-4020-ba61-e0769adb1cf0, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_09_28_49_2989.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_09_28_49_2989.xml&ownerId=sayoghos@in.ibm.com&sharingCode=f405f205-dcd2-4020-ba61-e0769adb1cf0, user=, cssSelectorsEnabled=true}]
+Session ID: 11436f88-99c9-42d4-a172-885fe881de84
+*** Element info: {Using=xpath, value=//*[@id='locality']} 
+2016-11-14 11:33:42,326 INFO  [Log] Entering the text in //*[@id='locality'] 
+2016-11-14 11:34:20,164 INFO  [Log] **************************************************************************************** 
+2016-11-14 11:34:20,165 INFO  [Log] **************************************************************************************** 
+2016-11-14 11:34:20,165 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TescoMobileApp_03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-14 11:34:20,165 INFO  [Log] **************************************************************************************** 
+2016-11-14 11:34:20,165 INFO  [Log] **************************************************************************************** 
+2016-11-14 11:34:20,179 INFO  [Log] Launch Mobile App 
+2016-11-14 11:34:22,864 ERROR [Log] Not able to click --- Failed to execute command handset open: Cannot open device 2F984FFA for user sayoghos@in.ibm.com, device is in use.
+Command duration or timeout: 2.10 seconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.253.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_05'
+Driver info: io.appium.java_client.android.AndroidDriver 
+2016-11-14 11:34:26,255 INFO  [Log] Tapping on element //android.widget.ImageView[@resource-id='com.tesco.grocery.view:id/action_bar_up_navigation'] 
+2016-11-14 11:34:26,268 ERROR [Log] Not able to click --- null 
+2016-11-14 11:34:29,489 INFO  [Log] Tapping on element //android.widget.TextView[@text='Store locator'] 
+2016-11-14 11:34:29,489 ERROR [Log] Not able to click --- null 
+2016-11-14 11:34:32,656 INFO  [Log] Tapping on element //*[@id='locality'] 
+2016-11-14 11:34:32,656 ERROR [Log] Not able to click --- null 
+2016-11-14 11:34:35,779 INFO  [Log] Entering the text in //*[@id='locality'] 
+2016-11-14 11:34:35,783 ERROR [Log] Not able to Enter UserName --- null 
+2016-11-14 11:34:38,905 INFO  [Log] Tapping on element //*[@id='findStores'] 
+2016-11-14 11:34:38,905 ERROR [Log] Not able to click --- null 
+2016-11-14 11:37:46,141 ERROR [Log] Not able to Enter UserName --- Failed to execute command webpage.element find: findElements command failed. Reason: handset server: cannot find webview element.
+Command duration or timeout: 243.55 seconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.253.75', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.tesco.grocery.view, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-14_09_28_49_2989, entityType=appium_driver, deviceName=2F984FFA, serverConnector=, platform=ANY, appActivity=md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-14_09_28_49_2989, password=, webdriver.remote.sessionid=11436f88-99c9-42d4-a172-885fe881de84, platformVersion=5.0, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_09_28_49_2989.xml&ownerId=sayoghos@in.ibm.com&sharingCode=f405f205-dcd2-4020-ba61-e0769adb1cf0, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_09_28_49_2989.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_09_28_49_2989.xml&ownerId=sayoghos@in.ibm.com&sharingCode=f405f205-dcd2-4020-ba61-e0769adb1cf0, user=, cssSelectorsEnabled=true}]
+Session ID: 11436f88-99c9-42d4-a172-885fe881de84
+*** Element info: {Using=xpath, value=//*[@id='locality']} 
+2016-11-14 11:37:49,200 INFO  [Log] Tapping on element //*[@id='findStores'] 
+2016-11-14 11:37:49,546 ERROR [Log] Not able to click --- Failed to execute command webpage.element find: Device 2F984FFA is not allocated to sayoghos@in.ibm.com
+Command duration or timeout: 217 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.253.75', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.tesco.grocery.view, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-14_09_28_49_2989, entityType=appium_driver, deviceName=2F984FFA, serverConnector=, platform=ANY, appActivity=md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-14_09_28_49_2989, password=, webdriver.remote.sessionid=11436f88-99c9-42d4-a172-885fe881de84, platformVersion=5.0, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_09_28_49_2989.xml&ownerId=sayoghos@in.ibm.com&sharingCode=f405f205-dcd2-4020-ba61-e0769adb1cf0, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_09_28_49_2989.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_09_28_49_2989.xml&ownerId=sayoghos@in.ibm.com&sharingCode=f405f205-dcd2-4020-ba61-e0769adb1cf0, user=, cssSelectorsEnabled=true}]
+Session ID: 11436f88-99c9-42d4-a172-885fe881de84
+*** Element info: {Using=xpath, value=//*[@id='findStores']} 
+2016-11-14 11:38:12,383 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-11-14 11:38:12,383 INFO  [Log] X 
+2016-11-14 11:38:12,383 INFO  [Log] X 
+2016-11-14 11:38:12,383 INFO  [Log] X 
+2016-11-14 11:38:12,383 INFO  [Log] X 
+2016-11-14 11:51:09,990 INFO  [Log] **************************************************************************************** 
+2016-11-14 11:51:09,990 INFO  [Log] **************************************************************************************** 
+2016-11-14 11:51:09,991 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TescoMobileApp_03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-14 11:51:09,991 INFO  [Log] **************************************************************************************** 
+2016-11-14 11:51:09,991 INFO  [Log] **************************************************************************************** 
+2016-11-14 11:51:10,000 INFO  [Log] Launch Mobile App 
+2016-11-14 11:51:29,255 INFO  [Log] Tapping on element //android.widget.ImageView[@resource-id='com.tesco.grocery.view:id/action_bar_up_navigation'] 
+2016-11-14 11:51:38,988 INFO  [Log] Tapping on element //android.widget.TextView[@text='Store locator'] 
+2016-11-14 11:51:47,221 INFO  [Log] Tapping on element //*[@id='locality'] 
+2016-11-14 11:51:57,060 INFO  [Log] Entering the text in //*[@id='locality'] 
+2016-11-14 11:51:59,546 ERROR [Log] Not able to Enter UserName --- Failed to execute command browser navigate: browser-navigate-back command failed. Reason: handset server: the application on top does not support this operation
+Command duration or timeout: 701 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.253.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_05'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.tesco.grocery.view, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-14_09_51_12_2998, entityType=appium_driver, deviceName=2F984FFA, serverConnector=, platform=ANY, appActivity=md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-14_09_51_12_2998, password=, webdriver.remote.sessionid=d1e00ae7-4de7-4455-a4a3-c3799c308905, platformVersion=5.0, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_09_51_12_2998.xml&ownerId=sayoghos@in.ibm.com&sharingCode=37d26c7f-4bda-4c39-8063-4aa444c7fc42, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_09_51_12_2998.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_09_51_12_2998.xml&ownerId=sayoghos@in.ibm.com&sharingCode=37d26c7f-4bda-4c39-8063-4aa444c7fc42, user=, cssSelectorsEnabled=true}]
+Session ID: d1e00ae7-4de7-4455-a4a3-c3799c308905 
+2016-11-14 11:52:02,673 INFO  [Log] Tapping on element //*[@id='findStores'] 
+2016-11-14 12:10:42,001 INFO  [Log] **************************************************************************************** 
+2016-11-14 12:10:42,001 INFO  [Log] **************************************************************************************** 
+2016-11-14 12:10:42,001 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TescoMobileApp_03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-14 12:10:42,001 INFO  [Log] **************************************************************************************** 
+2016-11-14 12:10:42,001 INFO  [Log] **************************************************************************************** 
+2016-11-14 12:10:42,009 INFO  [Log] Launch Mobile App 
+2016-11-14 12:11:01,976 INFO  [Log] Tapping on element //android.widget.ImageView[@resource-id='com.tesco.grocery.view:id/action_bar_up_navigation'] 
+2016-11-14 12:12:23,000 ERROR [Log] Not able to click --- Failed to execute command application.element find: Authorization failed for device: 2F984FFA
+Command duration or timeout: 80.99 seconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.253.75', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.tesco.grocery.view, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-14_10_10_44_3009, entityType=appium_driver, deviceName=2F984FFA, serverConnector=, platform=ANY, appActivity=md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-14_10_10_44_3009, password=, webdriver.remote.sessionid=c248a9f5-ae21-4289-a4d7-4bb9c4fd9e06, platformVersion=5.0, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_10_10_44_3009.xml&ownerId=sayoghos@in.ibm.com&sharingCode=fe9bfddd-f544-4275-8c7d-b5430e347220, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_10_10_44_3009.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_10_10_44_3009.xml&ownerId=sayoghos@in.ibm.com&sharingCode=fe9bfddd-f544-4275-8c7d-b5430e347220, user=, cssSelectorsEnabled=true}]
+Session ID: c248a9f5-ae21-4289-a4d7-4bb9c4fd9e06
+*** Element info: {Using=xpath, value=//android.widget.ImageView[@resource-id='com.tesco.grocery.view:id/action_bar_up_navigation']} 
+2016-11-14 12:12:26,118 INFO  [Log] Tapping on element //android.widget.TextView[@text='Store locator'] 
+2016-11-14 12:12:26,365 ERROR [Log] Not able to click --- Failed to execute command application.element find: Device 2F984FFA is not allocated to sayoghos@in.ibm.com
+Command duration or timeout: 246 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.253.75', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.tesco.grocery.view, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-14_10_10_44_3009, entityType=appium_driver, deviceName=2F984FFA, serverConnector=, platform=ANY, appActivity=md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-14_10_10_44_3009, password=, webdriver.remote.sessionid=c248a9f5-ae21-4289-a4d7-4bb9c4fd9e06, platformVersion=5.0, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_10_10_44_3009.xml&ownerId=sayoghos@in.ibm.com&sharingCode=fe9bfddd-f544-4275-8c7d-b5430e347220, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_10_10_44_3009.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_10_10_44_3009.xml&ownerId=sayoghos@in.ibm.com&sharingCode=fe9bfddd-f544-4275-8c7d-b5430e347220, user=, cssSelectorsEnabled=true}]
+Session ID: c248a9f5-ae21-4289-a4d7-4bb9c4fd9e06
+*** Element info: {Using=xpath, value=//android.widget.TextView[@text='Store locator']} 
+2016-11-14 12:12:29,466 INFO  [Log] Tapping on element //*[@id='locality'] 
+2016-11-14 12:12:29,818 ERROR [Log] Not able to click --- Failed to execute command webpage.element find: Device 2F984FFA is not allocated to sayoghos@in.ibm.com
+Command duration or timeout: 209 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.253.75', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.tesco.grocery.view, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-14_10_10_44_3009, entityType=appium_driver, deviceName=2F984FFA, serverConnector=, platform=ANY, appActivity=md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-14_10_10_44_3009, password=, webdriver.remote.sessionid=c248a9f5-ae21-4289-a4d7-4bb9c4fd9e06, platformVersion=5.0, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_10_10_44_3009.xml&ownerId=sayoghos@in.ibm.com&sharingCode=fe9bfddd-f544-4275-8c7d-b5430e347220, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_10_10_44_3009.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_10_10_44_3009.xml&ownerId=sayoghos@in.ibm.com&sharingCode=fe9bfddd-f544-4275-8c7d-b5430e347220, user=, cssSelectorsEnabled=true}]
+Session ID: c248a9f5-ae21-4289-a4d7-4bb9c4fd9e06
+*** Element info: {Using=xpath, value=//*[@id='locality']} 
+2016-11-14 12:12:32,884 INFO  [Log] Entering the text in //*[@id='locality'] 
+2016-11-14 12:12:33,262 ERROR [Log] Not able to Enter UserName --- Failed to execute command webpage.element find: Device 2F984FFA is not allocated to sayoghos@in.ibm.com
+Command duration or timeout: 217 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.253.75', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.tesco.grocery.view, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-14_10_10_44_3009, entityType=appium_driver, deviceName=2F984FFA, serverConnector=, platform=ANY, appActivity=md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-14_10_10_44_3009, password=, webdriver.remote.sessionid=c248a9f5-ae21-4289-a4d7-4bb9c4fd9e06, platformVersion=5.0, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_10_10_44_3009.xml&ownerId=sayoghos@in.ibm.com&sharingCode=fe9bfddd-f544-4275-8c7d-b5430e347220, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_10_10_44_3009.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_10_10_44_3009.xml&ownerId=sayoghos@in.ibm.com&sharingCode=fe9bfddd-f544-4275-8c7d-b5430e347220, user=, cssSelectorsEnabled=true}]
+Session ID: c248a9f5-ae21-4289-a4d7-4bb9c4fd9e06
+*** Element info: {Using=xpath, value=//*[@id='locality']} 
+2016-11-14 12:12:36,367 INFO  [Log] Tapping on element //*[@id='findStores'] 
+2016-11-14 12:12:37,448 ERROR [Log] Not able to click --- Failed to execute command webpage.element find: Device 2F984FFA is not allocated to sayoghos@in.ibm.com
+Command duration or timeout: 931 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.253.75', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.tesco.grocery.view, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-14_10_10_44_3009, entityType=appium_driver, deviceName=2F984FFA, serverConnector=, platform=ANY, appActivity=md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-14_10_10_44_3009, password=, webdriver.remote.sessionid=c248a9f5-ae21-4289-a4d7-4bb9c4fd9e06, platformVersion=5.0, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_10_10_44_3009.xml&ownerId=sayoghos@in.ibm.com&sharingCode=fe9bfddd-f544-4275-8c7d-b5430e347220, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_10_10_44_3009.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_10_10_44_3009.xml&ownerId=sayoghos@in.ibm.com&sharingCode=fe9bfddd-f544-4275-8c7d-b5430e347220, user=, cssSelectorsEnabled=true}]
+Session ID: c248a9f5-ae21-4289-a4d7-4bb9c4fd9e06
+*** Element info: {Using=xpath, value=//*[@id='findStores']} 
+2016-11-14 12:12:54,994 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-11-14 12:12:54,994 INFO  [Log] X 
+2016-11-14 12:12:54,994 INFO  [Log] X 
+2016-11-14 12:12:54,994 INFO  [Log] X 
+2016-11-14 12:12:54,994 INFO  [Log] X 
+2016-11-14 12:18:23,748 INFO  [Log] **************************************************************************************** 
+2016-11-14 12:18:23,749 INFO  [Log] **************************************************************************************** 
+2016-11-14 12:18:23,749 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TescoMobileApp_03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-14 12:18:23,749 INFO  [Log] **************************************************************************************** 
+2016-11-14 12:18:23,749 INFO  [Log] **************************************************************************************** 
+2016-11-14 12:18:23,758 INFO  [Log] Launch Mobile App 
+2016-11-14 12:18:27,124 INFO  [Log] Tapping on element //android.widget.ImageView[@resource-id='com.tesco.grocery.view:id/action_bar_up_navigation'] 
+2016-11-14 12:18:27,135 ERROR [Log] Not able to click --- null 
+2016-11-14 12:18:30,341 INFO  [Log] Tapping on element //android.widget.TextView[@text='Store locator'] 
+2016-11-14 12:18:30,342 ERROR [Log] Not able to click --- null 
+2016-11-14 12:18:33,496 INFO  [Log] Tapping on element //*[@id='locality'] 
+2016-11-14 12:18:33,497 ERROR [Log] Not able to click --- null 
+2016-11-14 12:18:36,597 INFO  [Log] Entering the text in //*[@id='locality'] 
+2016-11-14 12:18:36,605 ERROR [Log] Not able to Enter UserName --- null 
+2016-11-14 12:18:39,792 INFO  [Log] Tapping on element //*[@id='findStores'] 
+2016-11-14 12:18:39,800 ERROR [Log] Not able to click --- null 
+2016-11-14 12:19:44,168 INFO  [Log] **************************************************************************************** 
+2016-11-14 12:19:44,168 INFO  [Log] **************************************************************************************** 
+2016-11-14 12:19:44,169 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TescoMobileApp_03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-14 12:19:44,169 INFO  [Log] **************************************************************************************** 
+2016-11-14 12:19:44,169 INFO  [Log] **************************************************************************************** 
+2016-11-14 12:19:44,184 INFO  [Log] Launch Mobile App 
+2016-11-14 12:20:05,436 INFO  [Log] Tapping on element //android.widget.ImageView[@resource-id='com.tesco.grocery.view:id/action_bar_up_navigation'] 
+2016-11-14 12:20:17,171 INFO  [Log] Tapping on element //android.widget.TextView[@text='Store locator'] 
+2016-11-14 12:20:25,943 INFO  [Log] Tapping on element //*[@id='locality'] 
+2016-11-14 12:33:11,626 INFO  [Log] **************************************************************************************** 
+2016-11-14 12:33:11,627 INFO  [Log] **************************************************************************************** 
+2016-11-14 12:33:11,627 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TescoMobileApp_03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-14 12:33:11,627 INFO  [Log] **************************************************************************************** 
+2016-11-14 12:33:11,627 INFO  [Log] **************************************************************************************** 
+2016-11-14 12:33:11,635 INFO  [Log] Launch Mobile App 
+2016-11-14 12:33:32,201 INFO  [Log] Tapping on element //android.widget.ImageView[@resource-id='com.tesco.grocery.view:id/action_bar_up_navigation'] 
+2016-11-14 12:33:42,559 INFO  [Log] Tapping on element //android.widget.TextView[@text='Store locator'] 
+2016-11-14 12:33:51,617 INFO  [Log] Tapping on element //android.widget.EditText[@resource-id='locality'] 
+2016-11-14 12:34:00,687 INFO  [Log] Entering the text in //android.widget.EditText[@resource-id='locality'] 
+2016-11-14 12:34:10,746 INFO  [Log] Tapping on element //android.widget.Button[@content-desc='Find stores '] 
+2016-11-14 13:09:21,371 INFO  [Log] **************************************************************************************** 
+2016-11-14 13:09:21,371 INFO  [Log] **************************************************************************************** 
+2016-11-14 13:09:21,371 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TescoMobileApp_03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-14 13:09:21,371 INFO  [Log] **************************************************************************************** 
+2016-11-14 13:09:21,371 INFO  [Log] **************************************************************************************** 
+2016-11-14 13:09:21,379 INFO  [Log] Launch Mobile App 
+2016-11-14 13:09:40,654 INFO  [Log] Tapping on element //android.widget.ImageView[@resource-id='com.tesco.grocery.view:id/action_bar_up_navigation'] 
+2016-11-14 13:11:01,999 ERROR [Log] Not able to click --- Element with by xpath '//android.widget.ImageView[@resource-id='com.tesco.grocery.view:id/action_bar_up_navigation']' wasn't found.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'IBMGBS-MCM', ip: '1.1.80.10', os.name: 'Windows Server 2008 R2', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 81.32 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.253.75', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.tesco.grocery.view, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-14_11_09_23_3050, entityType=appium_driver, deviceName=2F984FFA, serverConnector=, platform=ANY, appActivity=md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-14_11_09_23_3050, password=, webdriver.remote.sessionid=0021a32b-7bd8-4de4-a450-7ddfdb86c553, platformVersion=5.0, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_11_09_23_3050.xml&ownerId=sayoghos@in.ibm.com&sharingCode=6eaabcb8-c584-4c97-b071-feef3d181b9c, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_11_09_23_3050.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161114/RemoteWebDriver_16-11-14_11_09_23_3050.xml&ownerId=sayoghos@in.ibm.com&sharingCode=6eaabcb8-c584-4c97-b071-feef3d181b9c, user=, cssSelectorsEnabled=true}]
+Session ID: 0021a32b-7bd8-4de4-a450-7ddfdb86c553
+*** Element info: {Using=xpath, value=//android.widget.ImageView[@resource-id='com.tesco.grocery.view:id/action_bar_up_navigation']} 
+2016-11-14 13:34:02,915 INFO  [Log] **************************************************************************************** 
+2016-11-14 13:34:02,915 INFO  [Log] **************************************************************************************** 
+2016-11-14 13:34:02,915 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TescoMobileApp_03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-14 13:34:02,915 INFO  [Log] **************************************************************************************** 
+2016-11-14 13:34:02,915 INFO  [Log] **************************************************************************************** 
+2016-11-14 13:34:02,924 INFO  [Log] Launch Mobile App 
+2016-11-14 13:34:23,999 INFO  [Log] Tapping on element //android.widget.ImageView[@resource-id='com.tesco.grocery.view:id/action_bar_up_navigation'] 
+2016-11-14 13:34:35,128 INFO  [Log] Tapping on element //android.widget.TextView[@text='Store locator'] 
+2016-11-14 13:34:43,992 INFO  [Log] Tapping on element //android.widget.EditText[@resource-id='locality'] 
+2016-11-14 13:34:53,278 INFO  [Log] Entering the text in //android.widget.EditText[@resource-id='locality'] 
+2016-11-14 13:35:04,677 INFO  [Log] Tapping on element //android.widget.Button[@content-desc='Find stores '] 
+2016-11-14 13:35:35,966 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-11-14 13:35:35,966 INFO  [Log] X 
+2016-11-14 13:35:35,966 INFO  [Log] X 
+2016-11-14 13:35:35,966 INFO  [Log] X 
+2016-11-14 13:35:35,966 INFO  [Log] X 
+2016-11-14 13:39:18,339 INFO  [Log] **************************************************************************************** 
+2016-11-14 13:39:18,340 INFO  [Log] **************************************************************************************** 
+2016-11-14 13:39:18,340 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TescoMobileApp_03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-14 13:39:18,340 INFO  [Log] **************************************************************************************** 
+2016-11-14 13:39:18,340 INFO  [Log] **************************************************************************************** 
+2016-11-14 13:39:18,349 INFO  [Log] Launch Mobile App 
+2016-11-14 13:39:39,606 INFO  [Log] Tapping on element //android.widget.ImageView[@resource-id='com.tesco.grocery.view:id/action_bar_up_navigation'] 
+2016-11-14 13:39:49,662 INFO  [Log] Tapping on element //android.widget.TextView[@text='Store locator'] 
+2016-11-14 13:39:58,987 INFO  [Log] Tapping on element //android.widget.EditText[@resource-id='locality'] 
+2016-11-14 13:40:08,271 INFO  [Log] Entering the text in //android.widget.EditText[@resource-id='locality'] 
+2016-11-14 13:40:19,834 INFO  [Log] Tapping on element //android.widget.Button[@content-desc='Find stores '] 
+2016-11-14 13:40:48,951 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-11-14 13:40:48,951 INFO  [Log] X 
+2016-11-14 13:40:48,951 INFO  [Log] X 
+2016-11-14 13:40:48,951 INFO  [Log] X 
+2016-11-14 13:40:48,951 INFO  [Log] X 
+2016-11-14 13:51:22,993 INFO  [Log] **************************************************************************************** 
+2016-11-14 13:51:22,993 INFO  [Log] **************************************************************************************** 
+2016-11-14 13:51:22,993 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TescoMobileApp_03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-14 13:51:22,993 INFO  [Log] **************************************************************************************** 
+2016-11-14 13:51:22,993 INFO  [Log] **************************************************************************************** 
+2016-11-14 13:51:23,001 INFO  [Log] Launch Mobile App 
+2016-11-14 13:51:45,151 INFO  [Log] Tapping on element //android.widget.ImageView[@resource-id='com.tesco.grocery.view:id/action_bar_up_navigation'] 
+2016-11-14 13:51:55,790 INFO  [Log] Tapping on element //android.widget.TextView[@text='Store locator'] 
+2016-11-14 13:52:04,652 INFO  [Log] Tapping on element //android.widget.EditText[@resource-id='locality'] 
+2016-11-14 13:52:13,906 INFO  [Log] Entering the text in //android.widget.EditText[@resource-id='locality'] 
+2016-11-14 13:52:25,285 INFO  [Log] Tapping on element //android.widget.Button[@content-desc='Find stores '] 
+2016-11-14 13:52:57,205 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-11-14 13:52:57,205 INFO  [Log] X 
+2016-11-14 13:52:57,205 INFO  [Log] X 
+2016-11-14 13:52:57,205 INFO  [Log] X 
+2016-11-14 13:52:57,205 INFO  [Log] X 
+2016-11-15 10:39:22,164 INFO  [Log] **************************************************************************************** 
+2016-11-15 10:39:22,164 INFO  [Log] **************************************************************************************** 
+2016-11-15 10:39:22,164 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CitiMobileApp_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-15 10:39:22,164 INFO  [Log] **************************************************************************************** 
+2016-11-15 10:39:22,164 INFO  [Log] **************************************************************************************** 
+2016-11-15 10:39:22,170 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-11-15 10:39:23,172 INFO  [Log] Entering the text in  
+2016-11-15 10:39:23,186 ERROR [Log] Not able to Enter UserName --- null 
+2016-11-15 10:39:26,456 INFO  [Log] Tapping on element //*[@class="android.widget.ScrollView"]/group[1]/group[3]/group[1]/group[1]/group[1]/button[1] 
+2016-11-15 10:39:26,466 ERROR [Log] Not able to click --- null 
+2016-11-15 10:39:29,671 INFO  [Log] Tapping on element //*[@class="android.widget.LinearLayout"]/text[3] 
+2016-11-15 10:39:29,671 ERROR [Log] Not able to click --- null 
+2016-11-15 10:39:32,770 INFO  [Log] Tapping on element //*[text()="By Location"] 
+2016-11-15 10:39:32,770 ERROR [Log] Not able to click --- null 
+2016-11-15 10:39:35,880 INFO  [Log] Tapping on element //*[text()='South'] 
+2016-11-15 10:39:35,880 ERROR [Log] Not able to click --- null 
+2016-11-15 10:39:38,958 INFO  [Log] Tapping on element //*[text()="Chennai"] 
+2016-11-15 10:39:38,958 ERROR [Log] Not able to click --- null 
+2016-11-15 10:39:42,059 INFO  [Log] Tapping on element //*[text()="ATM"] 
+2016-11-15 10:39:42,059 ERROR [Log] Not able to click --- null 
+2016-11-15 10:39:45,140 INFO  [Log] Tapping on element //*[text()="Adyar (Metro ATM)"] 
+2016-11-15 10:39:45,140 ERROR [Log] Not able to click --- null 
+2016-11-15 10:40:54,968 INFO  [Log] **************************************************************************************** 
+2016-11-15 10:40:54,968 INFO  [Log] **************************************************************************************** 
+2016-11-15 10:40:54,968 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CitiMobileApp_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-15 10:40:54,968 INFO  [Log] **************************************************************************************** 
+2016-11-15 10:40:54,968 INFO  [Log] **************************************************************************************** 
+2016-11-15 10:40:54,974 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-11-15 10:40:54,976 INFO  [Log] Launch Mobile App 
+2016-11-15 10:41:17,290 INFO  [Log] Tapping on element //*[@class="android.widget.ScrollView"]/group[1]/group[3]/group[1]/group[1]/group[1]/button[1] 
+2016-11-15 10:42:37,820 ERROR [Log] Not able to click --- Element with by xpath '//*[@class="android.widget.ScrollView"]/group[1]/group[3]/group[1]/group[1]/group[1]/button[1]' wasn't found.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'IBMGBS-MCM', ip: '1.1.80.10', os.name: 'Windows Server 2008 R2', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 80.49 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.234.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.citiuat, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_40_57_3154, entityType=appium_driver, deviceName=031603B8357C2801, serverConnector=, platform=ANY, appActivity=com.citiuat.mobeix, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_40_57_3154, password=, webdriver.remote.sessionid=5cd8a00b-d92b-4c42-9cd0-601776d905f1, platformVersion=6.0.1, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_40_57_3154.xml&ownerId=sayoghos@in.ibm.com&sharingCode=1d38c6d9-8601-468a-87fc-a5811f0f5fc3, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_40_57_3154.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_40_57_3154.xml&ownerId=sayoghos@in.ibm.com&sharingCode=1d38c6d9-8601-468a-87fc-a5811f0f5fc3, user=, cssSelectorsEnabled=true}]
+Session ID: 5cd8a00b-d92b-4c42-9cd0-601776d905f1
+*** Element info: {Using=xpath, value=//*[@class="android.widget.ScrollView"]/group[1]/group[3]/group[1]/group[1]/group[1]/button[1]} 
+2016-11-15 10:42:40,826 INFO  [Log] Tapping on element //*[@class="android.widget.LinearLayout"]/text[3] 
+2016-11-15 10:44:01,252 ERROR [Log] Not able to click --- Failed to execute command application.element find: Authorization failed for device: 031603B8357C2801
+Command duration or timeout: 80.42 seconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.234.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.citiuat, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_40_57_3154, entityType=appium_driver, deviceName=031603B8357C2801, serverConnector=, platform=ANY, appActivity=com.citiuat.mobeix, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_40_57_3154, password=, webdriver.remote.sessionid=5cd8a00b-d92b-4c42-9cd0-601776d905f1, platformVersion=6.0.1, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_40_57_3154.xml&ownerId=sayoghos@in.ibm.com&sharingCode=1d38c6d9-8601-468a-87fc-a5811f0f5fc3, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_40_57_3154.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_40_57_3154.xml&ownerId=sayoghos@in.ibm.com&sharingCode=1d38c6d9-8601-468a-87fc-a5811f0f5fc3, user=, cssSelectorsEnabled=true}]
+Session ID: 5cd8a00b-d92b-4c42-9cd0-601776d905f1
+*** Element info: {Using=xpath, value=//*[@class="android.widget.LinearLayout"]/text[3]} 
+2016-11-15 10:44:04,253 INFO  [Log] Tapping on element //*[text()="By Location"] 
+2016-11-15 10:44:04,456 ERROR [Log] Not able to click --- Failed to execute command application.element find: Device 031603B8357C2801 is not allocated to sayoghos@in.ibm.com
+Command duration or timeout: 202 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.234.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.citiuat, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_40_57_3154, entityType=appium_driver, deviceName=031603B8357C2801, serverConnector=, platform=ANY, appActivity=com.citiuat.mobeix, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_40_57_3154, password=, webdriver.remote.sessionid=5cd8a00b-d92b-4c42-9cd0-601776d905f1, platformVersion=6.0.1, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_40_57_3154.xml&ownerId=sayoghos@in.ibm.com&sharingCode=1d38c6d9-8601-468a-87fc-a5811f0f5fc3, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_40_57_3154.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_40_57_3154.xml&ownerId=sayoghos@in.ibm.com&sharingCode=1d38c6d9-8601-468a-87fc-a5811f0f5fc3, user=, cssSelectorsEnabled=true}]
+Session ID: 5cd8a00b-d92b-4c42-9cd0-601776d905f1
+*** Element info: {Using=xpath, value=//*[text()="By Location"]} 
+2016-11-15 10:44:07,461 INFO  [Log] Tapping on element //*[text()='South'] 
+2016-11-15 10:44:07,711 ERROR [Log] Not able to click --- Failed to execute command application.element find: Device 031603B8357C2801 is not allocated to sayoghos@in.ibm.com
+Command duration or timeout: 249 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.234.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.citiuat, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_40_57_3154, entityType=appium_driver, deviceName=031603B8357C2801, serverConnector=, platform=ANY, appActivity=com.citiuat.mobeix, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_40_57_3154, password=, webdriver.remote.sessionid=5cd8a00b-d92b-4c42-9cd0-601776d905f1, platformVersion=6.0.1, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_40_57_3154.xml&ownerId=sayoghos@in.ibm.com&sharingCode=1d38c6d9-8601-468a-87fc-a5811f0f5fc3, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_40_57_3154.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_40_57_3154.xml&ownerId=sayoghos@in.ibm.com&sharingCode=1d38c6d9-8601-468a-87fc-a5811f0f5fc3, user=, cssSelectorsEnabled=true}]
+Session ID: 5cd8a00b-d92b-4c42-9cd0-601776d905f1
+*** Element info: {Using=xpath, value=//*[text()='South']} 
+2016-11-15 10:44:10,713 INFO  [Log] Tapping on element //*[text()="Chennai"] 
+2016-11-15 10:44:10,919 ERROR [Log] Not able to click --- Failed to execute command application.element find: Device 031603B8357C2801 is not allocated to sayoghos@in.ibm.com
+Command duration or timeout: 205 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.234.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.citiuat, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_40_57_3154, entityType=appium_driver, deviceName=031603B8357C2801, serverConnector=, platform=ANY, appActivity=com.citiuat.mobeix, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_40_57_3154, password=, webdriver.remote.sessionid=5cd8a00b-d92b-4c42-9cd0-601776d905f1, platformVersion=6.0.1, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_40_57_3154.xml&ownerId=sayoghos@in.ibm.com&sharingCode=1d38c6d9-8601-468a-87fc-a5811f0f5fc3, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_40_57_3154.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_40_57_3154.xml&ownerId=sayoghos@in.ibm.com&sharingCode=1d38c6d9-8601-468a-87fc-a5811f0f5fc3, user=, cssSelectorsEnabled=true}]
+Session ID: 5cd8a00b-d92b-4c42-9cd0-601776d905f1
+*** Element info: {Using=xpath, value=//*[text()="Chennai"]} 
+2016-11-15 10:44:13,919 INFO  [Log] Tapping on element //*[text()="ATM"] 
+2016-11-15 10:44:14,130 ERROR [Log] Not able to click --- Failed to execute command application.element find: Device 031603B8357C2801 is not allocated to sayoghos@in.ibm.com
+Command duration or timeout: 208 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.234.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.citiuat, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_40_57_3154, entityType=appium_driver, deviceName=031603B8357C2801, serverConnector=, platform=ANY, appActivity=com.citiuat.mobeix, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_40_57_3154, password=, webdriver.remote.sessionid=5cd8a00b-d92b-4c42-9cd0-601776d905f1, platformVersion=6.0.1, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_40_57_3154.xml&ownerId=sayoghos@in.ibm.com&sharingCode=1d38c6d9-8601-468a-87fc-a5811f0f5fc3, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_40_57_3154.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_40_57_3154.xml&ownerId=sayoghos@in.ibm.com&sharingCode=1d38c6d9-8601-468a-87fc-a5811f0f5fc3, user=, cssSelectorsEnabled=true}]
+Session ID: 5cd8a00b-d92b-4c42-9cd0-601776d905f1
+*** Element info: {Using=xpath, value=//*[text()="ATM"]} 
+2016-11-15 10:44:17,138 INFO  [Log] Tapping on element //*[text()="Adyar (Metro ATM)"] 
+2016-11-15 10:44:17,459 ERROR [Log] Not able to click --- Failed to execute command application.element find: Device 031603B8357C2801 is not allocated to sayoghos@in.ibm.com
+Command duration or timeout: 319 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.234.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.citiuat, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_40_57_3154, entityType=appium_driver, deviceName=031603B8357C2801, serverConnector=, platform=ANY, appActivity=com.citiuat.mobeix, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_40_57_3154, password=, webdriver.remote.sessionid=5cd8a00b-d92b-4c42-9cd0-601776d905f1, platformVersion=6.0.1, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_40_57_3154.xml&ownerId=sayoghos@in.ibm.com&sharingCode=1d38c6d9-8601-468a-87fc-a5811f0f5fc3, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_40_57_3154.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_40_57_3154.xml&ownerId=sayoghos@in.ibm.com&sharingCode=1d38c6d9-8601-468a-87fc-a5811f0f5fc3, user=, cssSelectorsEnabled=true}]
+Session ID: 5cd8a00b-d92b-4c42-9cd0-601776d905f1
+*** Element info: {Using=xpath, value=//*[text()="Adyar (Metro ATM)"]} 
+2016-11-15 10:47:36,969 INFO  [Log] **************************************************************************************** 
+2016-11-15 10:47:36,969 INFO  [Log] **************************************************************************************** 
+2016-11-15 10:47:36,969 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CitiMobileApp_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-15 10:47:36,969 INFO  [Log] **************************************************************************************** 
+2016-11-15 10:47:36,969 INFO  [Log] **************************************************************************************** 
+2016-11-15 10:47:36,976 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-11-15 10:47:36,979 INFO  [Log] Launch Mobile App 
+2016-11-15 10:48:00,019 INFO  [Log] Tapping on element //device/view/group[1]/group[1]/group[1]/viewanimator[1]/group[1]/scrollview[1]/group[1]/group[3]/group[1]/group[1]/group[1]/button[1] 
+2016-11-15 10:49:21,517 ERROR [Log] Not able to click --- Element with by xpath '//device/view/group[1]/group[1]/group[1]/viewanimator[1]/group[1]/scrollview[1]/group[1]/group[3]/group[1]/group[1]/group[1]/button[1]' wasn't found.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'IBMGBS-MCM', ip: '1.1.80.10', os.name: 'Windows Server 2008 R2', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 81.47 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.234.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.citiuat, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_47_39_3159, entityType=appium_driver, deviceName=031603B8357C2801, serverConnector=, platform=ANY, appActivity=com.citiuat.mobeix, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_47_39_3159, password=, webdriver.remote.sessionid=edf0d30e-a5c0-4866-a86b-f698bd33f933, platformVersion=6.0.1, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_47_39_3159.xml&ownerId=sayoghos@in.ibm.com&sharingCode=a9549dc8-97e1-4a57-a1bf-1136d399366d, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_47_39_3159.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_47_39_3159.xml&ownerId=sayoghos@in.ibm.com&sharingCode=a9549dc8-97e1-4a57-a1bf-1136d399366d, user=, cssSelectorsEnabled=true}]
+Session ID: edf0d30e-a5c0-4866-a86b-f698bd33f933
+*** Element info: {Using=xpath, value=//device/view/group[1]/group[1]/group[1]/viewanimator[1]/group[1]/scrollview[1]/group[1]/group[3]/group[1]/group[1]/group[1]/button[1]} 
+2016-11-15 10:49:24,638 INFO  [Log] Tapping on element //*[@class="android.widget.LinearLayout"]/text[3] 
+2016-11-15 10:50:45,931 ERROR [Log] Not able to click --- Failed to execute command application.element find: Authorization failed for device: 031603B8357C2801
+Command duration or timeout: 81.29 seconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.234.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.citiuat, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_47_39_3159, entityType=appium_driver, deviceName=031603B8357C2801, serverConnector=, platform=ANY, appActivity=com.citiuat.mobeix, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_47_39_3159, password=, webdriver.remote.sessionid=edf0d30e-a5c0-4866-a86b-f698bd33f933, platformVersion=6.0.1, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_47_39_3159.xml&ownerId=sayoghos@in.ibm.com&sharingCode=a9549dc8-97e1-4a57-a1bf-1136d399366d, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_47_39_3159.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_47_39_3159.xml&ownerId=sayoghos@in.ibm.com&sharingCode=a9549dc8-97e1-4a57-a1bf-1136d399366d, user=, cssSelectorsEnabled=true}]
+Session ID: edf0d30e-a5c0-4866-a86b-f698bd33f933
+*** Element info: {Using=xpath, value=//*[@class="android.widget.LinearLayout"]/text[3]} 
+2016-11-15 10:50:49,018 INFO  [Log] Tapping on element //*[text()="By Location"] 
+2016-11-15 10:50:49,246 ERROR [Log] Not able to click --- Failed to execute command application.element find: Device 031603B8357C2801 is not allocated to sayoghos@in.ibm.com
+Command duration or timeout: 227 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.234.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.citiuat, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_47_39_3159, entityType=appium_driver, deviceName=031603B8357C2801, serverConnector=, platform=ANY, appActivity=com.citiuat.mobeix, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_47_39_3159, password=, webdriver.remote.sessionid=edf0d30e-a5c0-4866-a86b-f698bd33f933, platformVersion=6.0.1, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_47_39_3159.xml&ownerId=sayoghos@in.ibm.com&sharingCode=a9549dc8-97e1-4a57-a1bf-1136d399366d, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_47_39_3159.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_47_39_3159.xml&ownerId=sayoghos@in.ibm.com&sharingCode=a9549dc8-97e1-4a57-a1bf-1136d399366d, user=, cssSelectorsEnabled=true}]
+Session ID: edf0d30e-a5c0-4866-a86b-f698bd33f933
+*** Element info: {Using=xpath, value=//*[text()="By Location"]} 
+2016-11-15 10:50:52,310 INFO  [Log] Tapping on element //*[text()='South'] 
+2016-11-15 10:50:52,529 ERROR [Log] Not able to click --- Failed to execute command application.element find: Device 031603B8357C2801 is not allocated to sayoghos@in.ibm.com
+Command duration or timeout: 216 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.234.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.citiuat, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_47_39_3159, entityType=appium_driver, deviceName=031603B8357C2801, serverConnector=, platform=ANY, appActivity=com.citiuat.mobeix, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_47_39_3159, password=, webdriver.remote.sessionid=edf0d30e-a5c0-4866-a86b-f698bd33f933, platformVersion=6.0.1, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_47_39_3159.xml&ownerId=sayoghos@in.ibm.com&sharingCode=a9549dc8-97e1-4a57-a1bf-1136d399366d, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_47_39_3159.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_47_39_3159.xml&ownerId=sayoghos@in.ibm.com&sharingCode=a9549dc8-97e1-4a57-a1bf-1136d399366d, user=, cssSelectorsEnabled=true}]
+Session ID: edf0d30e-a5c0-4866-a86b-f698bd33f933
+*** Element info: {Using=xpath, value=//*[text()='South']} 
+2016-11-15 10:50:55,592 INFO  [Log] Tapping on element //*[text()="Chennai"] 
+2016-11-15 10:50:55,930 ERROR [Log] Not able to click --- Failed to execute command application.element find: Device 031603B8357C2801 is not allocated to sayoghos@in.ibm.com
+Command duration or timeout: 337 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.234.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.citiuat, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_47_39_3159, entityType=appium_driver, deviceName=031603B8357C2801, serverConnector=, platform=ANY, appActivity=com.citiuat.mobeix, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_47_39_3159, password=, webdriver.remote.sessionid=edf0d30e-a5c0-4866-a86b-f698bd33f933, platformVersion=6.0.1, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_47_39_3159.xml&ownerId=sayoghos@in.ibm.com&sharingCode=a9549dc8-97e1-4a57-a1bf-1136d399366d, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_47_39_3159.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_47_39_3159.xml&ownerId=sayoghos@in.ibm.com&sharingCode=a9549dc8-97e1-4a57-a1bf-1136d399366d, user=, cssSelectorsEnabled=true}]
+Session ID: edf0d30e-a5c0-4866-a86b-f698bd33f933
+*** Element info: {Using=xpath, value=//*[text()="Chennai"]} 
+2016-11-15 10:50:58,976 INFO  [Log] Tapping on element //*[text()="ATM"] 
+2016-11-15 10:50:59,298 ERROR [Log] Not able to click --- Failed to execute command application.element find: Device 031603B8357C2801 is not allocated to sayoghos@in.ibm.com
+Command duration or timeout: 314 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.234.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.citiuat, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_47_39_3159, entityType=appium_driver, deviceName=031603B8357C2801, serverConnector=, platform=ANY, appActivity=com.citiuat.mobeix, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_47_39_3159, password=, webdriver.remote.sessionid=edf0d30e-a5c0-4866-a86b-f698bd33f933, platformVersion=6.0.1, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_47_39_3159.xml&ownerId=sayoghos@in.ibm.com&sharingCode=a9549dc8-97e1-4a57-a1bf-1136d399366d, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_47_39_3159.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_47_39_3159.xml&ownerId=sayoghos@in.ibm.com&sharingCode=a9549dc8-97e1-4a57-a1bf-1136d399366d, user=, cssSelectorsEnabled=true}]
+Session ID: edf0d30e-a5c0-4866-a86b-f698bd33f933
+*** Element info: {Using=xpath, value=//*[text()="ATM"]} 
+2016-11-15 10:51:02,381 INFO  [Log] Tapping on element //*[text()="Adyar (Metro ATM)"] 
+2016-11-15 10:51:02,632 ERROR [Log] Not able to click --- Failed to execute command application.element find: Device 031603B8357C2801 is not allocated to sayoghos@in.ibm.com
+Command duration or timeout: 249 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.234.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.citiuat, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_47_39_3159, entityType=appium_driver, deviceName=031603B8357C2801, serverConnector=, platform=ANY, appActivity=com.citiuat.mobeix, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_47_39_3159, password=, webdriver.remote.sessionid=edf0d30e-a5c0-4866-a86b-f698bd33f933, platformVersion=6.0.1, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_47_39_3159.xml&ownerId=sayoghos@in.ibm.com&sharingCode=a9549dc8-97e1-4a57-a1bf-1136d399366d, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_47_39_3159.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_47_39_3159.xml&ownerId=sayoghos@in.ibm.com&sharingCode=a9549dc8-97e1-4a57-a1bf-1136d399366d, user=, cssSelectorsEnabled=true}]
+Session ID: edf0d30e-a5c0-4866-a86b-f698bd33f933
+*** Element info: {Using=xpath, value=//*[text()="Adyar (Metro ATM)"]} 
+2016-11-15 10:52:23,677 INFO  [Log] **************************************************************************************** 
+2016-11-15 10:52:23,677 INFO  [Log] **************************************************************************************** 
+2016-11-15 10:52:23,677 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CitiMobileApp_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-15 10:52:23,677 INFO  [Log] **************************************************************************************** 
+2016-11-15 10:52:23,677 INFO  [Log] **************************************************************************************** 
+2016-11-15 10:52:23,684 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-11-15 10:52:23,686 INFO  [Log] Launch Mobile App 
+2016-11-15 10:52:48,009 INFO  [Log] Tapping on element //*[@class="android.widget.ScrollView"]/android.widget.LinearLayout[1]/android.widget.LinearLayout[3]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.Button[1] 
+2016-11-15 10:52:58,532 INFO  [Log] Tapping on element //*[@class="android.widget.LinearLayout"]/text[3] 
+2016-11-15 10:54:19,036 ERROR [Log] Not able to click --- Element with by xpath '//*[@class="android.widget.LinearLayout"]/text[3]' wasn't found.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'IBMGBS-MCM', ip: '1.1.80.10', os.name: 'Windows Server 2008 R2', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 80.46 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.234.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.citiuat, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_52_25_3167, entityType=appium_driver, deviceName=031603B8357C2801, serverConnector=, platform=ANY, appActivity=com.citiuat.mobeix, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_52_25_3167, password=, webdriver.remote.sessionid=c649a271-74ac-415c-b50b-a35457084e15, platformVersion=6.0.1, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_52_25_3167.xml&ownerId=sayoghos@in.ibm.com&sharingCode=aa27e050-645d-4d8f-a799-27e0a710842b, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_52_25_3167.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_52_25_3167.xml&ownerId=sayoghos@in.ibm.com&sharingCode=aa27e050-645d-4d8f-a799-27e0a710842b, user=, cssSelectorsEnabled=true}]
+Session ID: c649a271-74ac-415c-b50b-a35457084e15
+*** Element info: {Using=xpath, value=//*[@class="android.widget.LinearLayout"]/text[3]} 
+2016-11-15 10:54:22,125 INFO  [Log] Tapping on element //*[text()="By Location"] 
+2016-11-15 10:55:42,676 ERROR [Log] Not able to click --- Element with by xpath '//*[text()="By Location"]' wasn't found.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'IBMGBS-MCM', ip: '1.1.80.10', os.name: 'Windows Server 2008 R2', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 80.55 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.234.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.citiuat, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_52_25_3167, entityType=appium_driver, deviceName=031603B8357C2801, serverConnector=, platform=ANY, appActivity=com.citiuat.mobeix, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_52_25_3167, password=, webdriver.remote.sessionid=c649a271-74ac-415c-b50b-a35457084e15, platformVersion=6.0.1, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_52_25_3167.xml&ownerId=sayoghos@in.ibm.com&sharingCode=aa27e050-645d-4d8f-a799-27e0a710842b, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_52_25_3167.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_52_25_3167.xml&ownerId=sayoghos@in.ibm.com&sharingCode=aa27e050-645d-4d8f-a799-27e0a710842b, user=, cssSelectorsEnabled=true}]
+Session ID: c649a271-74ac-415c-b50b-a35457084e15
+*** Element info: {Using=xpath, value=//*[text()="By Location"]} 
+2016-11-15 10:55:45,750 INFO  [Log] Tapping on element //*[text()='South'] 
+2016-11-15 10:57:06,777 ERROR [Log] Not able to click --- Failed to execute command application.element find: Authorization failed for device: 031603B8357C2801
+Command duration or timeout: 81.03 seconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.234.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.citiuat, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_52_25_3167, entityType=appium_driver, deviceName=031603B8357C2801, serverConnector=, platform=ANY, appActivity=com.citiuat.mobeix, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_52_25_3167, password=, webdriver.remote.sessionid=c649a271-74ac-415c-b50b-a35457084e15, platformVersion=6.0.1, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_52_25_3167.xml&ownerId=sayoghos@in.ibm.com&sharingCode=aa27e050-645d-4d8f-a799-27e0a710842b, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_52_25_3167.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_52_25_3167.xml&ownerId=sayoghos@in.ibm.com&sharingCode=aa27e050-645d-4d8f-a799-27e0a710842b, user=, cssSelectorsEnabled=true}]
+Session ID: c649a271-74ac-415c-b50b-a35457084e15
+*** Element info: {Using=xpath, value=//*[text()='South']} 
+2016-11-15 10:57:09,885 INFO  [Log] Tapping on element //*[text()="Chennai"] 
+2016-11-15 10:57:10,130 ERROR [Log] Not able to click --- Failed to execute command application.element find: Device 031603B8357C2801 is not allocated to sayoghos@in.ibm.com
+Command duration or timeout: 241 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.234.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.citiuat, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_52_25_3167, entityType=appium_driver, deviceName=031603B8357C2801, serverConnector=, platform=ANY, appActivity=com.citiuat.mobeix, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_52_25_3167, password=, webdriver.remote.sessionid=c649a271-74ac-415c-b50b-a35457084e15, platformVersion=6.0.1, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_52_25_3167.xml&ownerId=sayoghos@in.ibm.com&sharingCode=aa27e050-645d-4d8f-a799-27e0a710842b, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_52_25_3167.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_52_25_3167.xml&ownerId=sayoghos@in.ibm.com&sharingCode=aa27e050-645d-4d8f-a799-27e0a710842b, user=, cssSelectorsEnabled=true}]
+Session ID: c649a271-74ac-415c-b50b-a35457084e15
+*** Element info: {Using=xpath, value=//*[text()="Chennai"]} 
+2016-11-15 10:57:13,191 INFO  [Log] Tapping on element //*[text()="ATM"] 
+2016-11-15 10:57:13,442 ERROR [Log] Not able to click --- Failed to execute command application.element find: Device 031603B8357C2801 is not allocated to sayoghos@in.ibm.com
+Command duration or timeout: 248 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.234.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.citiuat, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_52_25_3167, entityType=appium_driver, deviceName=031603B8357C2801, serverConnector=, platform=ANY, appActivity=com.citiuat.mobeix, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_52_25_3167, password=, webdriver.remote.sessionid=c649a271-74ac-415c-b50b-a35457084e15, platformVersion=6.0.1, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_52_25_3167.xml&ownerId=sayoghos@in.ibm.com&sharingCode=aa27e050-645d-4d8f-a799-27e0a710842b, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_52_25_3167.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_52_25_3167.xml&ownerId=sayoghos@in.ibm.com&sharingCode=aa27e050-645d-4d8f-a799-27e0a710842b, user=, cssSelectorsEnabled=true}]
+Session ID: c649a271-74ac-415c-b50b-a35457084e15
+*** Element info: {Using=xpath, value=//*[text()="ATM"]} 
+2016-11-15 10:57:16,528 INFO  [Log] Tapping on element //*[text()="Adyar (Metro ATM)"] 
+2016-11-15 10:57:16,856 ERROR [Log] Not able to click --- Failed to execute command application.element find: Device 031603B8357C2801 is not allocated to sayoghos@in.ibm.com
+Command duration or timeout: 326 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.234.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.citiuat, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_52_25_3167, entityType=appium_driver, deviceName=031603B8357C2801, serverConnector=, platform=ANY, appActivity=com.citiuat.mobeix, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_52_25_3167, password=, webdriver.remote.sessionid=c649a271-74ac-415c-b50b-a35457084e15, platformVersion=6.0.1, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_52_25_3167.xml&ownerId=sayoghos@in.ibm.com&sharingCode=aa27e050-645d-4d8f-a799-27e0a710842b, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_52_25_3167.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_52_25_3167.xml&ownerId=sayoghos@in.ibm.com&sharingCode=aa27e050-645d-4d8f-a799-27e0a710842b, user=, cssSelectorsEnabled=true}]
+Session ID: c649a271-74ac-415c-b50b-a35457084e15
+*** Element info: {Using=xpath, value=//*[text()="Adyar (Metro ATM)"]} 
+2016-11-15 10:59:01,114 INFO  [Log] **************************************************************************************** 
+2016-11-15 10:59:01,114 INFO  [Log] **************************************************************************************** 
+2016-11-15 10:59:01,114 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CitiMobileApp_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-15 10:59:01,114 INFO  [Log] **************************************************************************************** 
+2016-11-15 10:59:01,114 INFO  [Log] **************************************************************************************** 
+2016-11-15 10:59:01,120 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-11-15 10:59:01,122 INFO  [Log] Launch Mobile App 
+2016-11-15 10:59:25,757 INFO  [Log] Tapping on element //*[@class="android.widget.ScrollView"]/android.widget.LinearLayout[1]/android.widget.LinearLayout[3]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.Button[1] 
+2016-11-15 10:59:35,191 INFO  [Log] Tapping on element //*[@class="android.widget.HorizontalScrollView"]//*[@class="android.widget.LinearLayout"]/android.widget.TextView[3] 
+2016-11-15 10:59:45,584 INFO  [Log] Tapping on element //*[text()="By Location"] 
+2016-11-15 11:01:06,376 ERROR [Log] Not able to click --- Failed to execute command application.element find: Authorization failed for device: 031603B8357C2801
+Command duration or timeout: 80.77 seconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.234.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.citiuat, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_59_03_3178, entityType=appium_driver, deviceName=031603B8357C2801, serverConnector=, platform=ANY, appActivity=com.citiuat.mobeix, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_59_03_3178, password=, webdriver.remote.sessionid=601a183a-08fe-44f1-8062-185e0c063380, platformVersion=6.0.1, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_59_03_3178.xml&ownerId=sayoghos@in.ibm.com&sharingCode=b3540738-4e2c-4463-a818-85b9cd4fcb14, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_59_03_3178.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_59_03_3178.xml&ownerId=sayoghos@in.ibm.com&sharingCode=b3540738-4e2c-4463-a818-85b9cd4fcb14, user=, cssSelectorsEnabled=true}]
+Session ID: 601a183a-08fe-44f1-8062-185e0c063380
+*** Element info: {Using=xpath, value=//*[text()="By Location"]} 
+2016-11-15 11:01:09,403 INFO  [Log] Tapping on element //*[text()='South'] 
+2016-11-15 11:01:09,628 ERROR [Log] Not able to click --- Failed to execute command application.element find: Device 031603B8357C2801 is not allocated to sayoghos@in.ibm.com
+Command duration or timeout: 224 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.234.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.citiuat, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_59_03_3178, entityType=appium_driver, deviceName=031603B8357C2801, serverConnector=, platform=ANY, appActivity=com.citiuat.mobeix, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_59_03_3178, password=, webdriver.remote.sessionid=601a183a-08fe-44f1-8062-185e0c063380, platformVersion=6.0.1, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_59_03_3178.xml&ownerId=sayoghos@in.ibm.com&sharingCode=b3540738-4e2c-4463-a818-85b9cd4fcb14, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_59_03_3178.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_59_03_3178.xml&ownerId=sayoghos@in.ibm.com&sharingCode=b3540738-4e2c-4463-a818-85b9cd4fcb14, user=, cssSelectorsEnabled=true}]
+Session ID: 601a183a-08fe-44f1-8062-185e0c063380
+*** Element info: {Using=xpath, value=//*[text()='South']} 
+2016-11-15 11:01:12,629 INFO  [Log] Tapping on element //*[text()="Chennai"] 
+2016-11-15 11:01:12,854 ERROR [Log] Not able to click --- Failed to execute command application.element find: Device 031603B8357C2801 is not allocated to sayoghos@in.ibm.com
+Command duration or timeout: 219 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.234.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.citiuat, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_59_03_3178, entityType=appium_driver, deviceName=031603B8357C2801, serverConnector=, platform=ANY, appActivity=com.citiuat.mobeix, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_59_03_3178, password=, webdriver.remote.sessionid=601a183a-08fe-44f1-8062-185e0c063380, platformVersion=6.0.1, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_59_03_3178.xml&ownerId=sayoghos@in.ibm.com&sharingCode=b3540738-4e2c-4463-a818-85b9cd4fcb14, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_59_03_3178.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_59_03_3178.xml&ownerId=sayoghos@in.ibm.com&sharingCode=b3540738-4e2c-4463-a818-85b9cd4fcb14, user=, cssSelectorsEnabled=true}]
+Session ID: 601a183a-08fe-44f1-8062-185e0c063380
+*** Element info: {Using=xpath, value=//*[text()="Chennai"]} 
+2016-11-15 11:01:15,856 INFO  [Log] Tapping on element //*[text()="ATM"] 
+2016-11-15 11:01:16,058 ERROR [Log] Not able to click --- Failed to execute command application.element find: Device 031603B8357C2801 is not allocated to sayoghos@in.ibm.com
+Command duration or timeout: 201 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.234.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.citiuat, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_59_03_3178, entityType=appium_driver, deviceName=031603B8357C2801, serverConnector=, platform=ANY, appActivity=com.citiuat.mobeix, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_59_03_3178, password=, webdriver.remote.sessionid=601a183a-08fe-44f1-8062-185e0c063380, platformVersion=6.0.1, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_59_03_3178.xml&ownerId=sayoghos@in.ibm.com&sharingCode=b3540738-4e2c-4463-a818-85b9cd4fcb14, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_59_03_3178.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_59_03_3178.xml&ownerId=sayoghos@in.ibm.com&sharingCode=b3540738-4e2c-4463-a818-85b9cd4fcb14, user=, cssSelectorsEnabled=true}]
+Session ID: 601a183a-08fe-44f1-8062-185e0c063380
+*** Element info: {Using=xpath, value=//*[text()="ATM"]} 
+2016-11-15 11:01:19,061 INFO  [Log] Tapping on element //*[text()="Adyar (Metro ATM)"] 
+2016-11-15 11:01:19,287 ERROR [Log] Not able to click --- Failed to execute command application.element find: Device 031603B8357C2801 is not allocated to sayoghos@in.ibm.com
+Command duration or timeout: 222 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.234.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.citiuat, rotatable=true, testGridReportUrl=https://ibmgbs.reporting-01.perfectomobile.com?externalId[0]=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_59_03_3178, entityType=appium_driver, deviceName=031603B8357C2801, serverConnector=, platform=ANY, appActivity=com.citiuat.mobeix, executionId=sayoghos@in.ibm.com_RemoteWebDriver_16-11-15_08_59_03_3178, password=, webdriver.remote.sessionid=601a183a-08fe-44f1-8062-185e0c063380, platformVersion=6.0.1, automationName=Appium, host=ibmgbs.perfectomobile.com, singleTestReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_59_03_3178.xml&ownerId=sayoghos@in.ibm.com&sharingCode=b3540738-4e2c-4463-a818-85b9cd4fcb14, locationContextEnabled=true, scriptName=RemoteWebDriver, takesScreenshot=true, javascriptEnabled=true, reportKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_59_03_3178.xml, platformName=Android, windTunnelReportUrl=https://ibmgbs.perfectomobile.com/nexperience/singletest/report/?reportRepositoryKey=PRIVATE:RemoteWebDriver/161115/RemoteWebDriver_16-11-15_08_59_03_3178.xml&ownerId=sayoghos@in.ibm.com&sharingCode=b3540738-4e2c-4463-a818-85b9cd4fcb14, user=, cssSelectorsEnabled=true}]
+Session ID: 601a183a-08fe-44f1-8062-185e0c063380
+*** Element info: {Using=xpath, value=//*[text()="Adyar (Metro ATM)"]} 
+2016-11-15 11:08:36,077 INFO  [Log] **************************************************************************************** 
+2016-11-15 11:08:36,077 INFO  [Log] **************************************************************************************** 
+2016-11-15 11:08:36,077 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CitiMobileApp_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-15 11:08:36,077 INFO  [Log] **************************************************************************************** 
+2016-11-15 11:08:36,077 INFO  [Log] **************************************************************************************** 
+2016-11-15 11:08:36,082 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-11-15 11:08:36,084 INFO  [Log] Launch Mobile App 
+2016-11-15 11:09:02,160 INFO  [Log] Tapping on element //*[@class="android.widget.ScrollView"]/android.widget.LinearLayout[1]/android.widget.LinearLayout[3]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.Button[1] 
+2016-11-15 11:09:12,141 INFO  [Log] Tapping on element //*[@class="android.widget.HorizontalScrollView"]//*[@class="android.widget.LinearLayout"]/android.widget.TextView[3] 
+2016-11-15 11:09:20,680 INFO  [Log] Tapping on element //*[@text='By Location'] 
+2016-11-15 11:09:29,606 INFO  [Log] Tapping on element //*[@text='South'] 
+2016-11-15 11:09:38,428 INFO  [Log] Tapping on element //*[@text='Chennai'] 
+2016-11-15 11:09:48,118 INFO  [Log] Tapping on element //*[@text='ATM'] 
+2016-11-15 11:09:58,607 INFO  [Log] Tapping on element //*[@text='Adyar (Metro ATM)'] 
+2016-11-15 11:28:33,398 INFO  [Log] **************************************************************************************** 
+2016-11-15 11:28:33,398 INFO  [Log] **************************************************************************************** 
+2016-11-15 11:28:33,398 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CitiMobileApp_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-15 11:28:33,398 INFO  [Log] **************************************************************************************** 
+2016-11-15 11:28:33,398 INFO  [Log] **************************************************************************************** 
+2016-11-15 11:28:33,404 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-11-15 11:28:33,407 INFO  [Log] Launch Mobile App 
+2016-11-15 11:28:57,085 INFO  [Log] Tapping on element //*[@class="android.widget.ScrollView"]/android.widget.LinearLayout[1]/android.widget.LinearLayout[3]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.Button[1] 
+2016-11-15 11:29:07,004 INFO  [Log] Tapping on element //*[@class="android.widget.HorizontalScrollView"]//*[@class="android.widget.LinearLayout"]/android.widget.TextView[3] 
+2016-11-15 11:29:16,171 INFO  [Log] Tapping on element //*[@text='By Location'] 
+2016-11-15 11:29:25,079 INFO  [Log] Tapping on element //*[@text='South'] 
+2016-11-15 11:29:34,777 INFO  [Log] Tapping on element //*[@text='Chennai'] 
+2016-11-15 11:29:44,220 INFO  [Log] Tapping on element //*[@text='ATM'] 
+2016-11-15 11:29:54,588 INFO  [Log] Tapping on element //*[@text='Adyar (Metro ATM)'] 
+2016-11-15 11:30:03,336 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-11-15 11:30:03,336 INFO  [Log] X 
+2016-11-15 11:30:03,336 INFO  [Log] X 
+2016-11-15 11:30:03,336 INFO  [Log] X 
+2016-11-15 11:30:03,336 INFO  [Log] X 
+2016-11-16 09:04:37,483 INFO  [Log] **************************************************************************************** 
+2016-11-16 09:04:37,483 INFO  [Log] **************************************************************************************** 
+2016-11-16 09:04:37,484 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CitiMobileApp_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-16 09:04:37,484 INFO  [Log] **************************************************************************************** 
+2016-11-16 09:04:37,484 INFO  [Log] **************************************************************************************** 
+2016-11-16 09:04:37,488 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-11-16 09:04:37,493 INFO  [Log] Launch Mobile App 
+2016-11-16 09:05:02,830 INFO  [Log] Tapping on element //*[@class="android.widget.ScrollView"]/android.widget.LinearLayout[1]/android.widget.LinearLayout[3]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.Button[1] 
+2016-11-16 09:05:12,247 INFO  [Log] Tapping on element //*[@class="android.widget.HorizontalScrollView"]//*[@class="android.widget.LinearLayout"]/android.widget.TextView[3] 
+2016-11-16 09:05:20,764 INFO  [Log] Tapping on element //*[@text='By Location'] 
+2016-11-16 09:05:30,697 INFO  [Log] Tapping on element //*[@text='South'] 
+2016-11-16 09:05:39,411 INFO  [Log] Tapping on element //*[@text='Chennai'] 
+2016-11-16 09:05:48,880 INFO  [Log] Tapping on element //*[@text='ATM'] 
+2016-11-16 09:06:01,751 INFO  [Log] Tapping on element //*[@text='Adyar (Metro ATM)'] 
+2016-11-16 09:06:11,823 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-11-16 09:06:11,823 INFO  [Log] X 
+2016-11-16 09:06:11,823 INFO  [Log] X 
+2016-11-16 09:06:11,823 INFO  [Log] X 
+2016-11-16 09:06:11,823 INFO  [Log] X 
+2016-11-16 09:13:31,510 INFO  [Log] **************************************************************************************** 
+2016-11-16 09:13:31,511 INFO  [Log] **************************************************************************************** 
+2016-11-16 09:13:31,511 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CitiMobileApp_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-16 09:13:31,511 INFO  [Log] **************************************************************************************** 
+2016-11-16 09:13:31,511 INFO  [Log] **************************************************************************************** 
+2016-11-16 09:13:31,518 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-11-16 09:13:31,523 INFO  [Log] Launch Mobile App 
+2016-11-16 09:13:52,870 INFO  [Log] Tapping on element //*[@class="android.widget.ScrollView"]/android.widget.LinearLayout[1]/android.widget.LinearLayout[3]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.Button[1] 
+2016-11-16 09:14:01,929 INFO  [Log] Tapping on element //*[@class="android.widget.HorizontalScrollView"]//*[@class="android.widget.LinearLayout"]/android.widget.TextView[3] 
+2016-11-16 09:14:10,700 INFO  [Log] Tapping on element //*[@text='By Location'] 
+2016-11-16 09:14:19,317 INFO  [Log] Tapping on element //*[@text='South'] 
+2016-11-16 09:14:28,722 INFO  [Log] Tapping on element //*[@text='Chennai'] 
+2016-11-16 09:14:37,967 INFO  [Log] Tapping on element //*[@text='ATM'] 
+2016-11-16 09:14:48,135 INFO  [Log] Tapping on element //*[@text='Adyar (Metro ATM)'] 
+2016-11-16 09:14:56,690 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-11-16 09:14:56,690 INFO  [Log] X 
+2016-11-16 09:14:56,690 INFO  [Log] X 
+2016-11-16 09:14:56,691 INFO  [Log] X 
+2016-11-16 09:14:56,691 INFO  [Log] X 
+2016-11-18 09:44:02,916 INFO  [Log] **************************************************************************************** 
+2016-11-18 09:44:02,917 INFO  [Log] **************************************************************************************** 
+2016-11-18 09:44:02,917 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CitiMobileApp_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-18 09:44:02,917 INFO  [Log] **************************************************************************************** 
+2016-11-18 09:44:02,917 INFO  [Log] **************************************************************************************** 
+2016-11-18 09:44:02,924 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-11-18 09:44:02,930 INFO  [Log] Launch Mobile App 
+2016-11-18 09:44:29,755 INFO  [Log] Tapping on element //*[@class="android.widget.ScrollView"]/android.widget.LinearLayout[1]/android.widget.LinearLayout[3]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.Button[1] 
+2016-11-18 09:44:39,364 INFO  [Log] Tapping on element //*[@class="android.widget.HorizontalScrollView"]//*[@class="android.widget.LinearLayout"]/android.widget.TextView[3] 
+2016-11-18 09:44:48,105 INFO  [Log] Tapping on element //*[@text='By Location'] 
+2016-11-18 09:44:56,843 INFO  [Log] Tapping on element //*[@text='South'] 
+2016-11-18 09:45:05,815 INFO  [Log] Tapping on element //*[@text='Chennai'] 
+2016-11-18 09:45:15,198 INFO  [Log] Tapping on element //*[@text='ATM'] 
+2016-11-18 09:45:25,491 INFO  [Log] Tapping on element //*[@text='Adyar (Metro ATM)'] 
+2016-11-18 09:45:34,037 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-11-18 09:45:34,038 INFO  [Log] X 
+2016-11-18 09:45:34,038 INFO  [Log] X 
+2016-11-18 09:45:34,038 INFO  [Log] X 
+2016-11-18 09:45:34,038 INFO  [Log] X 
+2016-11-18 10:32:42,594 INFO  [Log] **************************************************************************************** 
+2016-11-18 10:32:42,595 INFO  [Log] **************************************************************************************** 
+2016-11-18 10:32:42,594 INFO  [Log] **************************************************************************************** 
+2016-11-18 10:32:42,595 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CitiMobileApp_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-18 10:32:42,595 INFO  [Log] **************************************************************************************** 
+2016-11-18 10:32:42,595 INFO  [Log] **************************************************************************************** 
+2016-11-18 10:32:42,595 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CitiMobileApp_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-18 10:32:42,595 INFO  [Log] **************************************************************************************** 
+2016-11-18 10:32:42,595 INFO  [Log] **************************************************************************************** 
+2016-11-18 10:32:42,595 INFO  [Log] **************************************************************************************** 
+2016-11-18 10:32:42,602 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-11-18 10:32:42,604 INFO  [Log] Launch Mobile App 
+2016-11-18 10:32:42,604 INFO  [Log] Launch Mobile App 
+2016-11-18 10:33:01,821 INFO  [Log] Tapping on element //*[@class="android.widget.ScrollView"]/android.widget.LinearLayout[1]/android.widget.LinearLayout[3]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.Button[1] 
+2016-11-18 10:33:06,236 INFO  [Log] Tapping on element //*[@class="android.widget.ScrollView"]/android.widget.LinearLayout[1]/android.widget.LinearLayout[3]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.Button[1] 
+2016-11-18 10:33:08,189 INFO  [Log] Tapping on element //*[@class="android.widget.HorizontalScrollView"]//*[@class="android.widget.LinearLayout"]/android.widget.TextView[3] 
+2016-11-18 10:33:14,387 INFO  [Log] Tapping on element //*[@text='By Location'] 
+2016-11-18 10:33:16,044 INFO  [Log] Tapping on element //*[@class="android.widget.HorizontalScrollView"]//*[@class="android.widget.LinearLayout"]/android.widget.TextView[3] 
+2016-11-18 10:33:20,670 INFO  [Log] Tapping on element //*[@text='South'] 
+2016-11-18 10:33:25,184 INFO  [Log] Tapping on element //*[@text='By Location'] 
+2016-11-18 10:33:27,852 INFO  [Log] Tapping on element //*[@text='Chennai'] 
+2016-11-18 10:33:33,965 INFO  [Log] Tapping on element //*[@text='South'] 
+2016-11-18 10:33:34,121 INFO  [Log] Tapping on element //*[@text='ATM'] 
+2016-11-18 10:33:40,585 INFO  [Log] Tapping on element //*[@text='Adyar (Metro ATM)'] 
+2016-11-18 10:33:42,658 INFO  [Log] Tapping on element //*[@text='Chennai'] 
+2016-11-18 10:33:45,980 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-11-18 10:33:45,980 INFO  [Log] X 
+2016-11-18 10:33:45,980 INFO  [Log] X 
+2016-11-18 10:33:45,980 INFO  [Log] X 
+2016-11-18 10:33:45,980 INFO  [Log] X 
+2016-11-18 10:33:53,060 INFO  [Log] Tapping on element //*[@text='ATM'] 
+2016-11-18 10:34:03,154 INFO  [Log] Tapping on element //*[@text='Adyar (Metro ATM)'] 
+2016-11-18 10:34:11,924 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-11-18 10:34:11,924 INFO  [Log] X 
+2016-11-18 10:34:11,925 INFO  [Log] X 
+2016-11-18 10:34:11,925 INFO  [Log] X 
+2016-11-18 10:34:11,925 INFO  [Log] X 
+2016-11-18 10:55:17,980 INFO  [Log] **************************************************************************************** 
+2016-11-18 10:55:17,980 INFO  [Log] **************************************************************************************** 
+2016-11-18 10:55:17,980 INFO  [Log] **************************************************************************************** 
+2016-11-18 10:55:17,980 INFO  [Log] **************************************************************************************** 
+2016-11-18 10:55:17,980 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CitiMobileApp_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-18 10:55:17,980 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CitiMobileApp_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-18 10:55:17,980 INFO  [Log] **************************************************************************************** 
+2016-11-18 10:55:17,980 INFO  [Log] **************************************************************************************** 
+2016-11-18 10:55:17,980 INFO  [Log] **************************************************************************************** 
+2016-11-18 10:55:17,981 INFO  [Log] **************************************************************************************** 
+2016-11-18 10:55:17,986 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-11-18 10:55:17,987 INFO  [Log] Launch Mobile App 
+2016-11-18 10:55:17,987 INFO  [Log] Launch Mobile App 
+2016-11-18 10:55:21,733 ERROR [Log] Not able to click --- Failed to execute command handset open: Cannot open device 031603B8357C2801 for user sayoghos@in.ibm.com, device is in use.
+Command duration or timeout: 3.40 seconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.231.148', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver 
+2016-11-18 10:55:24,916 INFO  [Log] Tapping on element //*[@class="android.widget.ScrollView"]/android.widget.LinearLayout[1]/android.widget.LinearLayout[3]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.Button[1] 
+2016-11-18 10:55:24,919 ERROR [Log] Not able to click --- null 
+2016-11-18 10:55:28,004 INFO  [Log] Tapping on element //*[@class="android.widget.HorizontalScrollView"]//*[@class="android.widget.LinearLayout"]/android.widget.TextView[3] 
+2016-11-18 10:55:28,004 ERROR [Log] Not able to click --- null 
+2016-11-18 10:55:31,092 INFO  [Log] Tapping on element //*[@text='By Location'] 
+2016-11-18 10:55:31,092 ERROR [Log] Not able to click --- null 
+2016-11-18 10:55:34,145 INFO  [Log] Tapping on element //*[@text='South'] 
+2016-11-18 10:55:34,145 ERROR [Log] Not able to click --- null 
+2016-11-18 10:55:36,529 INFO  [Log] Tapping on element //*[@class="android.widget.ScrollView"]/android.widget.LinearLayout[1]/android.widget.LinearLayout[3]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.Button[1] 
+2016-11-18 10:55:37,214 INFO  [Log] Tapping on element //*[@text='Chennai'] 
+2016-11-18 10:55:37,214 ERROR [Log] Not able to click --- null 
+2016-11-18 10:55:40,267 INFO  [Log] Tapping on element //*[@text='ATM'] 
+2016-11-18 10:55:40,267 ERROR [Log] Not able to click --- null 
+2016-11-18 10:55:42,910 INFO  [Log] Tapping on element //*[@class="android.widget.HorizontalScrollView"]//*[@class="android.widget.LinearLayout"]/android.widget.TextView[3] 
+2016-11-18 10:55:43,362 INFO  [Log] Tapping on element //*[@text='Adyar (Metro ATM)'] 
+2016-11-18 10:55:43,362 ERROR [Log] Not able to click --- null 
+2016-11-18 10:55:45,501 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-11-18 10:55:45,501 INFO  [Log] X 
+2016-11-18 10:55:45,501 INFO  [Log] X 
+2016-11-18 10:55:45,501 INFO  [Log] X 
+2016-11-18 10:55:45,501 INFO  [Log] X 
+2016-11-18 10:55:49,110 INFO  [Log] Tapping on element //*[@text='By Location'] 
+2016-11-18 10:56:56,300 ERROR [Log] Not able to click --- Error communicating with the remote browser. It may have died.
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.231.148', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: driver.version: AndroidDriver 
+2016-11-18 10:56:59,364 INFO  [Log] Tapping on element //*[@text='South'] 
+2016-11-18 10:57:00,367 ERROR [Log] Not able to click --- Error communicating with the remote browser. It may have died.
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.231.148', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: driver.version: AndroidDriver 
+2016-11-18 10:57:03,424 INFO  [Log] Tapping on element //*[@text='Chennai'] 
+2016-11-18 10:57:04,434 ERROR [Log] Not able to click --- Error communicating with the remote browser. It may have died.
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.231.148', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: driver.version: AndroidDriver 
+2016-11-18 10:57:07,506 INFO  [Log] Tapping on element //*[@text='ATM'] 
+2016-11-18 10:57:08,507 ERROR [Log] Not able to click --- Error communicating with the remote browser. It may have died.
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.231.148', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: driver.version: AndroidDriver 
+2016-11-18 10:57:11,575 INFO  [Log] Tapping on element //*[@text='Adyar (Metro ATM)'] 
+2016-11-18 10:57:11,619 ERROR [Log] Not able to click --- 
+Command duration or timeout: 41 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'sayoghos', ip: '9.79.231.148', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.citiuat, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=4200fe92d47572d1, platform=LINUX, appActivity=com.citiuat.mobeix, desired={appPackage=com.citiuat, appActivity=com.citiuat.mobeix, platformVersion=5.1.1, automationName=Appium, platformName=Android, deviceName=4200fe92d47572d1}, platformVersion=5.1.1, webStorageEnabled=false, locationContextEnabled=false, automationName=Appium, browserName=Android, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: e3ca5ba6-696e-4b43-be83-86b2fe6301b2
+*** Element info: {Using=xpath, value=//*[@text='Adyar (Metro ATM)']} 
+2016-11-18 10:57:13,708 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-11-18 10:57:13,708 INFO  [Log] X 
+2016-11-18 10:57:13,708 INFO  [Log] X 
+2016-11-18 10:57:13,708 INFO  [Log] X 
+2016-11-18 10:57:13,708 INFO  [Log] X 
+2016-11-18 11:00:15,556 INFO  [Log] **************************************************************************************** 
+2016-11-18 11:00:15,556 INFO  [Log] **************************************************************************************** 
+2016-11-18 11:00:15,557 INFO  [Log] **************************************************************************************** 
+2016-11-18 11:00:15,557 INFO  [Log] **************************************************************************************** 
+2016-11-18 11:00:15,557 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CitiMobileApp_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-18 11:00:15,557 INFO  [Log] **************************************************************************************** 
+2016-11-18 11:00:15,557 INFO  [Log] **************************************************************************************** 
+2016-11-18 11:00:15,557 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CitiMobileApp_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-18 11:00:15,557 INFO  [Log] **************************************************************************************** 
+2016-11-18 11:00:15,557 INFO  [Log] **************************************************************************************** 
+2016-11-18 11:00:15,562 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-11-18 11:00:15,564 INFO  [Log] Launch Mobile App 
+2016-11-18 11:00:15,564 INFO  [Log] Launch Mobile App 
+2016-11-18 11:00:31,719 INFO  [Log] Tapping on element //*[@class="android.widget.ScrollView"]/android.widget.LinearLayout[1]/android.widget.LinearLayout[3]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.Button[1] 
+2016-11-18 11:00:38,060 INFO  [Log] Tapping on element //*[@class="android.widget.HorizontalScrollView"]//*[@class="android.widget.LinearLayout"]/android.widget.TextView[3] 
+2016-11-18 11:00:38,103 INFO  [Log] Tapping on element //*[@class="android.widget.ScrollView"]/android.widget.LinearLayout[1]/android.widget.LinearLayout[3]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.Button[1] 
+2016-11-18 11:00:44,315 INFO  [Log] Tapping on element //*[@text='By Location'] 
+2016-11-18 11:00:49,527 INFO  [Log] Tapping on element //*[@class="android.widget.HorizontalScrollView"]//*[@class="android.widget.LinearLayout"]/android.widget.TextView[3] 
+2016-11-18 11:00:50,584 INFO  [Log] Tapping on element //*[@text='South'] 
+2016-11-18 11:00:58,804 INFO  [Log] Tapping on element //*[@text='By Location'] 
+2016-11-18 11:00:58,922 INFO  [Log] Tapping on element //*[@text='Chennai'] 
+2016-11-18 11:01:05,265 INFO  [Log] Tapping on element //*[@text='ATM'] 
+2016-11-18 11:01:08,276 INFO  [Log] Tapping on element //*[@text='South'] 
+2016-11-18 11:01:11,903 INFO  [Log] Tapping on element //*[@text='Adyar (Metro ATM)'] 
+2016-11-18 11:01:17,280 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-11-18 11:01:17,280 INFO  [Log] X 
+2016-11-18 11:01:17,280 INFO  [Log] X 
+2016-11-18 11:01:17,281 INFO  [Log] X 
+2016-11-18 11:01:17,281 INFO  [Log] X 
+2016-11-18 11:01:17,440 INFO  [Log] Tapping on element //*[@text='Chennai'] 
+2016-11-18 11:01:27,369 INFO  [Log] Tapping on element //*[@text='ATM'] 
+2016-11-18 11:01:46,806 INFO  [Log] Tapping on element //*[@text='Adyar (Metro ATM)'] 
+2016-11-18 11:01:57,839 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-11-18 11:01:57,839 INFO  [Log] X 
+2016-11-18 11:01:57,839 INFO  [Log] X 
+2016-11-18 11:01:57,839 INFO  [Log] X 
+2016-11-18 11:01:57,839 INFO  [Log] X 
+2016-11-18 11:20:30,965 INFO  [Log] **************************************************************************************** 
+2016-11-18 11:20:30,965 INFO  [Log] **************************************************************************************** 
+2016-11-18 11:20:30,965 INFO  [Log] **************************************************************************************** 
+2016-11-18 11:20:30,965 INFO  [Log] **************************************************************************************** 
+2016-11-18 11:20:30,965 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CitiMobileApp_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-18 11:20:30,965 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CitiMobileApp_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-18 11:20:30,965 INFO  [Log] **************************************************************************************** 
+2016-11-18 11:20:30,965 INFO  [Log] **************************************************************************************** 
+2016-11-18 11:20:30,965 INFO  [Log] **************************************************************************************** 
+2016-11-18 11:20:30,965 INFO  [Log] **************************************************************************************** 
+2016-11-18 11:20:30,971 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-11-18 11:20:30,973 INFO  [Log] Launch Mobile App 
+2016-11-18 11:20:30,973 INFO  [Log] Launch Mobile App 
+2016-11-18 11:20:54,177 INFO  [Log] Tapping on element //*[@class="android.widget.ScrollView"]/android.widget.LinearLayout[1]/android.widget.LinearLayout[3]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.Button[1] 
+2016-11-18 11:20:54,975 INFO  [Log] Tapping on element //*[@class="android.widget.ScrollView"]/android.widget.LinearLayout[1]/android.widget.LinearLayout[3]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.Button[1] 
+2016-11-18 11:21:01,108 INFO  [Log] Tapping on element //*[@class="android.widget.HorizontalScrollView"]//*[@class="android.widget.LinearLayout"]/android.widget.TextView[3] 
+2016-11-18 11:21:04,433 INFO  [Log] Tapping on element //*[@class="android.widget.HorizontalScrollView"]//*[@class="android.widget.LinearLayout"]/android.widget.TextView[3] 
+2016-11-18 11:21:07,635 INFO  [Log] Tapping on element //*[@text='By Location'] 
+2016-11-18 11:21:13,123 INFO  [Log] Tapping on element //*[@text='By Location'] 
+2016-11-18 11:21:14,225 INFO  [Log] Tapping on element //*[@text='East'] 
+2016-11-18 11:21:21,652 INFO  [Log] Tapping on element //*[@text='Kolkata'] 
+2016-11-18 11:21:21,771 INFO  [Log] Tapping on element //*[@text='South'] 
+2016-11-18 11:21:28,066 INFO  [Log] Tapping on element //*[@text='ATM'] 
+2016-11-18 11:21:30,900 INFO  [Log] Tapping on element //*[@text='Chennai'] 
+2016-11-18 11:21:34,673 INFO  [Log] Tapping on element //*[@text='Brabourne Road Branch (Metro ATM)'] 
+2016-11-18 11:21:40,129 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-11-18 11:21:40,129 INFO  [Log] X 
+2016-11-18 11:21:40,129 INFO  [Log] X 
+2016-11-18 11:21:40,129 INFO  [Log] X 
+2016-11-18 11:21:40,129 INFO  [Log] X 
+2016-11-18 11:21:40,761 INFO  [Log] Tapping on element //*[@text='ATM'] 
+2016-11-18 11:21:50,873 INFO  [Log] Tapping on element //*[@text='Adyar (Metro ATM)'] 
+2016-11-18 11:21:59,474 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-11-18 11:21:59,474 INFO  [Log] X 
+2016-11-18 11:21:59,474 INFO  [Log] X 
+2016-11-18 11:21:59,474 INFO  [Log] X 
+2016-11-18 11:21:59,474 INFO  [Log] X 

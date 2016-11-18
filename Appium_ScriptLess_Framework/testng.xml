@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" annotations="JDK" parallel="tests"> 
+ 
+        <!--  
+    <test name="RUN-Sayom">  
+        <parameter name="Device_ID" value="4200fe92d47572d1" />
+        <parameter name="platformName" value="Andriod" />
+        <parameter name="OS_Version" value="5.1.1" />
+        <parameter name="bundleID" value="" />
+        <parameter name="appPackage" value="com.tesco.grocery.view" />
+        <parameter name="appActivity" value="md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity" />
+        
+        <classes>
+			<class name="executionEngine.DriverScript">
+			    <methods>
+			    <include name="main_method"/>
+			</methods>
+			</class>
+		</classes>
+    </test>
+    
+ 
+        <test name="RUN2-Sudarsh">  
+        <parameter name="Device_ID" value="8TVK8T6S9SNFHEQ4" />
+        <parameter name="platformName" value="Andriod" />
+        <parameter name="OS_Version" value="6.0" />
+        <parameter name="bundleID" value="" />
+        <parameter name="appPackage" value="com.tesco.grocery.view" />
+        <parameter name="appActivity" value="md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity" />
+        <classes>
+			<class name="executionEngine.DriverScript" >
+			</class>
+		</classes>
+    </test>
+    
+        
+   
+    <test name="RUN-Perfecto-Andriod">  
+        <parameter name="Device_ID" value="031603B8357C2801" />
+         <parameter name="platformName" value="Andriod" />
+        <parameter name="OS_Version" value="6.0.1" />
+        <parameter name="bundleID" value="" />
+        <parameter name="appPackage" value="com.tesco.grocery.view" />
+        <parameter name="appActivity" value="md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity" />
+        <classes>
+			<class name="executionEngine.DriverScript">
+			</class>
+		</classes>
+    </test>
+    
+    
+      <test name="RUN-Perfecto-iOS">  
+        <parameter name="Device_ID" value="78BE005F98E1545524A2360A1829EC06A5ADADE6"/>
+        <parameter name="platformName" value="iOS" />
+        <parameter name="OS_Version" value="9.3.4" />
+        <parameter name="bundleID" value="com.tesco.grocery" />
+        <parameter name="appPackage" value="" />
+        <parameter name="appActivity" value="" />
+        <classes>
+			<class name="executionEngine.DriverScript" >
+			</class>
+		</classes>
+    </test>
+    
+      
+      
+    <test name="RUN-Girish-iOS">  
+        <parameter name="Device_ID" value="iPhone 6s"/>
+        <parameter name="platformName" value="iOS" />
+        <parameter name="OS_Version" value="9.3" />
+        <parameter name="bundleID" value="com.tesco.grocery" />
+        <parameter name="appPackage" value="" />
+        <parameter name="appActivity" value="" />
+        <classes>
+			<class name="executionEngine.DriverScript" >
+			</class>
+		</classes>
+    </test>
+    
+    
+    
+      <test name="RUN-Sayom">  
+        <parameter name="Device_ID" value="4200fe92d47572d1" />
+        <parameter name="platformName" value="Andriod" />
+        <parameter name="OS_Version" value="5.1.1" />
+        <parameter name="bundleID" value="" />
+        <parameter name="appPackage" value="com.tesco.grocery.view" />
+        <parameter name="appActivity" value="md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity" />
+        <classes>
+			<class name="executionEngine.DriverScript">
+			</class>
+		</classes>
+    </test>
+        
+     <test name="RUN-Perfecto-Andriod">  
+        <parameter name="Device_ID" value="031603B8357C2801" />
+         <parameter name="platformName" value="Andriod" />
+        <parameter name="OS_Version" value="6.0.1" />
+        <parameter name="bundleID" value="" />
+        <parameter name="appPackage" value="com.tesco.grocery.view" />
+        <parameter name="appActivity" value="md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity" />
+        <classes>
+			<class name="executionEngine.DriverScript">
+			</class>
+		</classes>
+    </test>
+    
+        <test name="RUN-Perfecto-iOS">  
+        <parameter name="Device_ID" value="78BE005F98E1545524A2360A1829EC06A5ADADE6"/>
+        <parameter name="platformName" value="iOS" />
+        <parameter name="OS_Version" value="9.3.4" />
+        <parameter name="bundleID" value="com.tesco.grocery" />
+        <parameter name="appPackage" value="" />
+        <parameter name="appActivity" value="" />
+        <classes>
+			<class name="executionEngine.DriverScript" >
+			</class>
+		</classes>
+    </test>
+   
+    
+         <test name="RUN-Manohar-Andrioid">  
+        <parameter name="Device_ID" value="c7fd40e4"/>
+        <parameter name="platformName" value="Andriod" />
+        <parameter name="OS_Version" value="5.0.1" />
+        <parameter name="bundleID" value="" />
+        <parameter name="appPackage" value="com.sec.android.app.popupcalculator" />
+        <parameter name="appActivity" value="com.sec.android.app.popupcalculator.Calculator" />
+        <classes>
+			<class name="executionEngine.DriverScript" >
+			</class>
+		</classes>
+    </test>
+    
+         
+         
+          <test name="RUN-Testdriod(Bluemix)-Andriod">  
+        <parameter name="Device_ID" value="LGGooleNexus"/>
+        <parameter name="platformName" value="Andriod" />
+        <parameter name="OS_Version" value="6.0.1" />
+        <parameter name="bundleID" value="" />
+        <parameter name="appPackage" value="" />
+        <parameter name="appActivity" value="" />
+        <classes>
+			<class name="executionEngine.DriverScript" >
+			</class>
+		</classes>
+    </test>
+   
+   
+            <test name="RUN-Perfecto-Andriod">  
+        <parameter name="Device_ID" value="031603B8357C2801" />
+         <parameter name="platformName" value="Andriod" />
+        <parameter name="OS_Version" value="6.0.1" />
+        <parameter name="bundleID" value="" />
+        <parameter name="appPackage" value="com.tesco.grocery.view" />
+        <parameter name="appActivity" value="md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity" />
+        <classes>
+			<class name="executionEngine.DriverScript">
+			</class>
+		</classes>
+    </test>
+   -->
+   
+  <test name="RUN-PERFECTO-Andriod-CitiMobileApp">  
+        <parameter name="device_ID" value="031603B8357C2801" />
+         <parameter name="platformName" value="Andriod" />
+        <parameter name="os_Version" value="6.0.1" />
+        <parameter name="bundleID" value="" />
+        <parameter name="appPackage" value="com.citiuat" />
+        <parameter name="appActivity" value="com.citiuat.mobeix" />
+         <parameter name="platform" value="PERFECTOMOBILE" />
+        <parameter name="user" value="sayoghos@in.ibm.com"/>
+        <parameter name="password" value="qwer1234"/>
+        <parameter name="url" value="https://ibmgbs.perfectomobile.com/nexperience/perfectomobile/wd/hub"/>
+  <parameter name="datasheetloc" value="C://ECLIPSE_WORKSPACE//GITHUBREPOSITORY//Appium_ScriptLess_Framework//src//main//java//dataEngine//DataEngine.xlsx"/>
+  <parameter name="screenshotsloc" value= "C:\\TestExecutionRuns\\"/>
+        <classes>
+			<class name="executionEngine.DriverScript">
+			</class>
+		</classes>
+    </test>
+    
+  
+   <test name="RUN-GRID-Andriod-CitiMobileApp">  
+        <parameter name="device_ID" value="4200fe92d47572d1" />
+         <parameter name="platformName" value="Andriod" />
+        <parameter name="os_Version" value="5.1.1" />
+        <parameter name="bundleID" value="" />
+        <parameter name="appPackage" value="com.citiuat" />
+        <parameter name="appActivity" value="com.citiuat.mobeix" />
+         <parameter name="platform" value="GRID" />
+        <parameter name="user" value=""/>
+        <parameter name="password" value=""/>
+        <parameter name="url" value="http://9.79.231.148:5554/wd/hub"/>
+  <parameter name="datasheetloc" value="C://ECLIPSE_WORKSPACE//GITHUBREPOSITORY//Appium_ScriptLess_Framework//src//main//java//dataEngine//DataEngine.xlsx"/>
+  <parameter name="screenshotsloc" value= "C:\\TestExecutionRuns\\"/>
+        <classes>
+			<class name="executionEngine.DriverScript">
+			</class>
+		</classes>
+    </test>
+    
+</suite> <!-- Suite -->

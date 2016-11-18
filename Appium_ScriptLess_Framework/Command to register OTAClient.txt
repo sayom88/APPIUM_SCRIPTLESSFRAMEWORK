@@ -1,0 +1,1 @@
+C:\Windows\System32>regsvr32.exe C:\Users\IBM_ADMIN\AppData\Local\HP\ALM-Client\12.53.1.0_952\OTAClient.dll

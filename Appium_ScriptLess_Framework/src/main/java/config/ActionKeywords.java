@@ -4,11 +4,15 @@ import java.io.File;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.By;
 import org.openqa.selenium.OutputType;
+import org.openqa.selenium.Platform;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -30,7 +34,12 @@ import config.*;
 public class ActionKeywords extends BaseTest {
 	
 	public RemoteWebDriver driver;
+	
 	public DesiredCapabilities capabilities=new DesiredCapabilities();
+
+	public String browserName = "mobileOS";
+	public DesiredCapabilities capabilities_cloud = new DesiredCapabilities(browserName, "", Platform.ANY);
+
 	public String adeviceid;
 	public String aosversion;
 	public String aappPack;
@@ -45,9 +54,14 @@ public class ActionKeywords extends BaseTest {
 	public String aurl;
 	public String adatasheetloc;
 	public String ascreenshotsloc;
+	public String aappType;
+	public String aappurl;
+	public String aappbrowser;
+	public ArrayList contexts=new ArrayList();
+	
 	// public IWebDriver driver1;
 		
-	public void setMethod(String device,String platformName,String os_version,String bundleID,String appPack,String appAct,String platform,String user,String password,String url,String datasheetloc,String screenshotsloc) throws Exception
+	public void setMethod(String device,String platformName,String os_version,String bundleID,String appPack,String appAct,String platform,String user,String password,String url,String datasheetloc,String screenshotsloc,String appType,String appurl,String appbrowser) throws Exception
 	{
 		
 		adeviceid=device;
@@ -62,7 +76,9 @@ public class ActionKeywords extends BaseTest {
 		aurl=url;
 		adatasheetloc=datasheetloc;
 		ascreenshotsloc=screenshotsloc;
-		
+		aappType=appType;
+		aappurl=appurl;
+		aappbrowser=appbrowser;
 	}
 	
 	public void setMethod_Screencapture(String fileLocdir,String sTestStepID) throws Exception
@@ -110,7 +126,7 @@ public class ActionKeywords extends BaseTest {
 	}
 
 		
-		public void Launch(String objectref, String inputparam){
+		public void Launch(String objectref, String inputparam,String objectType){
 			try{
 				Log.info("Launch Mobile App");
 				  
@@ -118,7 +134,7 @@ public class ActionKeywords extends BaseTest {
 				System.out.println("...................Launch Mobile App Event Started........");
 				
 				
-				if(aplatform.equalsIgnoreCase("PERFECTOMOBILE") && aplatformName.equalsIgnoreCase("Andriod"))
+				if((aappType.equalsIgnoreCase("NATIVE") || aappType.equalsIgnoreCase("HYBRID") ) && aplatform.equalsIgnoreCase("PERFECTOMOBILE") && aplatformName.equalsIgnoreCase("Andriod"))
 				{
 					
 					  
@@ -133,9 +149,17 @@ public class ActionKeywords extends BaseTest {
 					 driver.manage().timeouts().implicitlyWait(80, TimeUnit.SECONDS);
 					 Thread.sleep(2000);
 					 captureScreenShot(driver);
+					 
+					  Set contextNames = ((AppiumDriver) driver).getContextHandles();
+				     	 Iterator iterator =  contextNames.iterator(); 
+				     	   while (iterator.hasNext()){
+				     		   String contextName=iterator.next().toString();
+				     		  contexts.add(contextName);
+				     	//System.out.println(contextName);
+				     	   }
 				}
 				
-				if(aplatform.equalsIgnoreCase("PERFECTOMOBILE") && aplatformName.equalsIgnoreCase("iOS"))
+				if ((aappType.equalsIgnoreCase("NATIVE") || aappType.equalsIgnoreCase("HYBRID") ) && aplatform.equalsIgnoreCase("PERFECTOMOBILE") && aplatformName.equalsIgnoreCase("iOS"))
 				{
 					
 					  
@@ -148,9 +172,17 @@ public class ActionKeywords extends BaseTest {
 					 driver.manage().timeouts().implicitlyWait(80, TimeUnit.SECONDS);
 					 Thread.sleep(2000);
 					 captureScreenShot(driver);
+					 
+					 Set contextNames = ((AppiumDriver) driver).getContextHandles();
+			     	 Iterator iterator =  contextNames.iterator(); 
+			     	   while (iterator.hasNext()){
+			     		   String contextName=iterator.next().toString();
+			     		  contexts.add(contextName);
+			     	System.out.println(contextName);
+			     	   }
 				}
 				
-				if(aplatform.equalsIgnoreCase("GRID") && aplatformName.equalsIgnoreCase("Andriod"))
+				if ((aappType.equalsIgnoreCase("NATIVE") || aappType.equalsIgnoreCase("HYBRID") ) && aplatform.equalsIgnoreCase("GRID") && aplatformName.equalsIgnoreCase("Andriod"))
 				{
 					
 					  
@@ -164,9 +196,17 @@ public class ActionKeywords extends BaseTest {
 					driver.manage().timeouts().implicitlyWait(80, TimeUnit.SECONDS);
 					 Thread.sleep(2000);
 					 captureScreenShot(driver);
+					 
+					 Set contextNames = ((AppiumDriver) driver).getContextHandles();
+			     	 Iterator iterator =  contextNames.iterator(); 
+			     	   while (iterator.hasNext()){
+			     		   String contextName=iterator.next().toString();
+			     		  contexts.add(contextName);
+			     	//System.out.println(contextName);
+			     	   }
 				}
 				
-				if(aplatform.equalsIgnoreCase("GRID") && aplatformName.equalsIgnoreCase("iOS"))
+				if((aappType.equalsIgnoreCase("NATIVE") || aappType.equalsIgnoreCase("HYBRID") ) && aplatform.equalsIgnoreCase("GRID") && aplatformName.equalsIgnoreCase("iOS"))
 				{
 					
 					  
@@ -178,9 +218,51 @@ public class ActionKeywords extends BaseTest {
 					driver.manage().timeouts().implicitlyWait(80, TimeUnit.SECONDS);
 					 Thread.sleep(2000);
 					 captureScreenShot(driver);
+					 
+					 Set contextNames = ((AppiumDriver) driver).getContextHandles();
+			     	 Iterator iterator =  contextNames.iterator(); 
+			     	   while (iterator.hasNext()){
+			     		   String contextName=iterator.next().toString();
+			     		  contexts.add(contextName);
+			     	//System.out.println(contextName);
+			     	   }
 				}
 				
-				
+				if(aappType.equalsIgnoreCase("WEB") && aplatform.equalsIgnoreCase("GRID") && aplatformName.equalsIgnoreCase("Andriod"))
+				{
+					
+					  
+					setupCapabilities();
+					capabilities.setCapability("browserName",aappbrowser);
+					
+					System.out.println("Into Device ID:"+adeviceid);
+					System.out.println("Into Device ID:"+aplatformName);
+					System.out.println("Into Device ID:"+aurl);
+					
+					//      capabilities.setCapability("deviceName",adeviceid);
+						//  capabilities.setCapability("platformName",aplatformName);	  
+						 // capabilities.setCapability("automationName","Appium");
+						
+							 
+					//System.out.println("Into Device ID:"+adeviceid);
+					driver = new AndroidDriver(new URL(aurl), capabilities);
+					driver.manage().timeouts().implicitlyWait(100, TimeUnit.SECONDS);
+					 
+					driver.get(aappurl);
+					
+					Thread.sleep(2000);
+					 captureScreenShot(driver);
+					 
+					 Set contextNames = ((AppiumDriver) driver).getContextHandles();
+			     	 Iterator iterator =  contextNames.iterator(); 
+			     	   while (iterator.hasNext()){
+			     		   String contextName=iterator.next().toString();
+			     		  contexts.add(contextName);
+			     	//System.out.println(contextName);
+			     	   }
+			     	   
+			     	  
+				}
 				/*
 				
 				//GIRISH's iOS SIMULATOR
@@ -260,7 +342,7 @@ public class ActionKeywords extends BaseTest {
 		
 		
 	
-	public void Tap(String objectref, String inputparam)
+	public void Tap(String objectref, String inputparam,String objectType)
 	 {
 		try{
 			
@@ -268,17 +350,37 @@ public class ActionKeywords extends BaseTest {
 			System.out.println("Into Tap() :: Driver Is:"+driver);
 			System.out.println("Into Tap() :: Object Reference Is:"+objectref);
 			System.out.println("Into Tap() :: Input Parameter Is:"+inputparam);
+			System.out.println("Into Tap() :: ObjectType Is:"+objectType);
 			
 			Log.info("Tapping on element "+ objectref);
 			
 			System.out.println("...................Tap Event Started........");
 			
+			
+			 Iterator iterator =  contexts.iterator(); 
+			  while (iterator.hasNext())
+			  {
+	     	 String contextName=iterator.next().toString();
+	     	System.out.println(contextName);
+	     	if (contextName.contains(objectType))
+	     	  {
+	     	((AppiumDriver) driver).context(contextName);
+	     	  break;
+	     	  }
+	     	}
+			
+			  System.out.println("Current Context of Driver Is:"+((AppiumDriver) driver).getContext());
+		
+			
+			  /*
 			if(objectref.equals("//*[@id='locality']") || objectref.equals("//*[@id='findStores']"))
 			{
 				 ((AppiumDriver) driver).context("WEBVIEW_1");
 			}
+			*/
 			
-			driver.findElement(By.xpath(objectref)).click();
+			
+			  ((AppiumDriver)driver).findElement(By.xpath(objectref)).click();
 			
 		
 			System.out.println("...............Tap Event Completed........");
@@ -294,7 +396,7 @@ public class ActionKeywords extends BaseTest {
          	}
 		}
 	
-	public  void Swipe(String objectref, String inputparam)
+	public  void Swipe(String objectref, String inputparam,String objectType)
 	 {
 		try{
 			
@@ -322,29 +424,49 @@ public class ActionKeywords extends BaseTest {
         	}
 		}
 	
-	public void Enter(String objectref, String inputparam){
+	public void Enter(String objectref, String inputparam,String objectType){
 		try{
 			
 			Thread.sleep(1000);
 			
 			System.out.println("Into Enter() :: Driver Is:"+driver);
+			System.out.println("Into Enter() :: Object Reference Is:"+objectref);
+			System.out.println("Into Enter() :: Input Parameter Is:"+inputparam);
+			System.out.println("Into Enter() :: ObjectType Is:"+objectType);
 			
 			Log.info("Entering the text in " + objectref);
 			
 	System.out.println("...................Enter Event Started........");
 			
 	//driver.findElement(By.xpath(OR.getProperty(objectref))).sendKeys(inputparam);
+
+	/*
 	if(objectref.equals("//*[@id='locality']") || objectref.equals("//*[@id='findStores']"))
 	{
 		 ((AppiumDriver) driver).context("WEBVIEW_1");
 	}
+	*/
 	
-	//MobileElement elementOne=(MobileElement) driver.findElementById("resource").sendKeys("Ar");
-	driver.findElementByXPath(objectref);
-	driver.getKeyboard().sendKeys(inputparam);
+	Iterator iterator =  contexts.iterator(); 
+	  while (iterator.hasNext())
+	  {
+	 String contextName=iterator.next().toString();
+	System.out.println(contextName);
+	if (contextName.contains(objectType))
+	  {
+	((AppiumDriver) driver).context(contextName);
+	  break;
+	  }
+	}
+
+	  System.out.println("Current Context of Driver Is:"+((AppiumDriver) driver).getContext());
+	  
+	  ((AppiumDriver)driver).findElementByXPath(objectref);
+	  ((AppiumDriver)driver).getKeyboard().sendKeys(inputparam);
 	 //driver.findElement(By.xpath(objectref)).sendKeys(inputparam);
-	 
-	 driver.navigate().back();
+	
+	  
+	//  ((AppiumDriver)driver).navigate().back();
 	 
 			System.out.println("...............Enter Event Completed........");
 	

@@ -36,6 +36,7 @@ public class DriverScript {
 	public  String sObjectRef;
 	public  String sInputParams;
 	public  String sKeyword;
+	public  String sObjectType;
 	
 	public  Method method[];
 	
@@ -62,11 +63,14 @@ public class DriverScript {
 	public String surl;
 	public String sdatasheetloc;
     public String sscreenshotsloc;
+    public String sappType;
+    public String sappurl;
+    public String sappbrowser;
 	//public String[] keywords=new String[]{"Launch","Tap","Swipe","Enter"};
 	
-	public RemoteWebDriver driver;
+	//public RemoteWebDriver driver;
 	//AppiumDriver<WebElement> driver1;
-	DesiredCapabilities capabilities=new DesiredCapabilities();
+	//DesiredCapabilities capabilities=new DesiredCapabilities();
 	
 	public DriverScript() throws NoSuchMethodException, SecurityException{
 	actionKeywords = new ActionKeywords();
@@ -76,8 +80,8 @@ public class DriverScript {
 	
 	
 	@BeforeTest
-	@Parameters({"device_ID","platformName","os_Version","bundleID","appPackage","appActivity","platform","user","password","url","datasheetloc","screenshotsloc"})
-	public void setupDriver(String device_ID,String platformName,String os_Version,String bundleID,String appPackage,String appActivity,String platform,String user,String password,String url,String datasheetloc,String screenshotsloc) throws MalformedURLException,NoSuchMethodException, SecurityException
+	@Parameters({"device_ID","platformName","os_Version","bundleID","appPackage","appActivity","platform","user","password","url","datasheetloc","screenshotsloc","appType","appurl","appbrowser"})
+	public void setupDriver(String device_ID,String platformName,String os_Version,String bundleID,String appPackage,String appActivity,String platform,String user,String password,String url,String datasheetloc,String screenshotsloc,String appType,String appurl,String appbrowser) throws MalformedURLException,NoSuchMethodException, SecurityException
 	{
 		try {
 			sDevice_ID=device_ID;
@@ -92,8 +96,10 @@ public class DriverScript {
 			surl= url;
 			sdatasheetloc=datasheetloc;
 			sscreenshotsloc=screenshotsloc;
-
-			actionKeywords.setMethod(sDevice_ID,splatformName,sOS_Version,sbundleID,sappPackage,sappActivity,splatform,suser,spassword,surl,sdatasheetloc,sscreenshotsloc);
+			sappType=appType;
+            sappurl=appurl;
+            sappbrowser=appbrowser;
+			actionKeywords.setMethod(sDevice_ID,splatformName,sOS_Version,sbundleID,sappPackage,sappActivity,splatform,suser,spassword,surl,sdatasheetloc,sscreenshotsloc,sappType,sappurl,sappbrowser);
 			
 			
 			//actionKeywords = new ActionKeywords();
@@ -203,6 +209,11 @@ public class DriverScript {
 						sKeyword = ExcelUtils.getCellData(iTestStep, Constants.Col_Keyword,Constants.Sheet_TestSteps);
 			    		System.out.println(threadId+"::"+"Keyword Is:"+sKeyword);
 			    	
+			      		
+			    		//To Get The ObjectType for each Test Step
+			    		sObjectType = ExcelUtils.getCellData(iTestStep, Constants.Col_ObjectType,Constants.Sheet_TestSteps);
+			    		System.out.println(threadId+"::"+"ObjectType Is:"+sObjectType);
+			    		
 			    		
 			    		//execute_Actions();
 			    		for(int i=0;i<method.length;i++){
@@ -212,7 +223,7 @@ public class DriverScript {
 			    				
 			    				actionKeywords.setMethod_Screencapture(fileLocdir, sTestStepID);
 			    				
-			    				method[i].invoke(actionKeywords,sObjectRef,sInputParams);
+			    				method[i].invoke(actionKeywords,sObjectRef,sInputParams,sObjectType);
 			    				
 			    				
 			    				Thread.sleep(1000);

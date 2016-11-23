@@ -161,20 +161,21 @@
 			</class>
 		</classes>
     </test>
-   -->
+   
    
   <test name="RUN-PERFECTO-Andriod-CitiMobileApp">  
-        <parameter name="device_ID" value="031603B8357C2801" />
-         <parameter name="platformName" value="Andriod" />
-        <parameter name="os_Version" value="6.0.1" />
-        <parameter name="bundleID" value="" />
-        <parameter name="appPackage" value="com.citiuat" />
-        <parameter name="appActivity" value="com.citiuat.mobeix" />
+        <parameter name="device_ID" value="78BE005F98E1545524A2360A1829EC06A5ADADE6" />
+         <parameter name="platformName" value="iOS" />
+        <parameter name="os_Version" value="9.3.3" />
+        <parameter name="bundleID" value="com.tesco.grocery" />
+        <parameter name="appPackage" value="" />
+        <parameter name="appActivity" value="" />
+          <parameter name="appType" value="NATIVE"/>
          <parameter name="platform" value="PERFECTOMOBILE" />
         <parameter name="user" value="sayoghos@in.ibm.com"/>
         <parameter name="password" value="qwer1234"/>
         <parameter name="url" value="https://ibmgbs.perfectomobile.com/nexperience/perfectomobile/wd/hub"/>
-  <parameter name="datasheetloc" value="C://ECLIPSE_WORKSPACE//GITHUBREPOSITORY//Appium_ScriptLess_Framework//src//main//java//dataEngine//DataEngine.xlsx"/>
+  <parameter name="datasheetloc" value="C://ECLIPSE_WORKSPACE//GITHUBREPOSITORY//APPIUM_SCRIPTLESSFRAMEWORK//Appium_ScriptLess_Framework//src//main//java//dataEngine//DataEngine.xlsx"/>
   <parameter name="screenshotsloc" value= "C:\\TestExecutionRuns\\"/>
         <classes>
 			<class name="executionEngine.DriverScript">
@@ -182,19 +183,45 @@
 		</classes>
     </test>
     
-  
+   -->
+   
    <test name="RUN-GRID-Andriod-CitiMobileApp">  
         <parameter name="device_ID" value="4200fe92d47572d1" />
          <parameter name="platformName" value="Andriod" />
         <parameter name="os_Version" value="5.1.1" />
         <parameter name="bundleID" value="" />
-        <parameter name="appPackage" value="com.citiuat" />
-        <parameter name="appActivity" value="com.citiuat.mobeix" />
+        <parameter name="appPackage" value="" />
+        <parameter name="appActivity" value="" />
+        <parameter name="appurl" value="http://www.tesco.com//" />
+        <parameter name="appbrowser" value="chrome" />  
+          <parameter name="appType" value="WEB"/>
          <parameter name="platform" value="GRID" />
         <parameter name="user" value=""/>
         <parameter name="password" value=""/>
-        <parameter name="url" value="http://9.79.231.148:5554/wd/hub"/>
-  <parameter name="datasheetloc" value="C://ECLIPSE_WORKSPACE//GITHUBREPOSITORY//Appium_ScriptLess_Framework//src//main//java//dataEngine//DataEngine.xlsx"/>
+        <parameter name="url" value="http://9.77.80.194:5554/wd/hub"/>
+  <parameter name="datasheetloc" value="C://ECLIPSE_WORKSPACE//GITHUBREPOSITORY//APPIUM_SCRIPTLESSFRAMEWORK//Appium_ScriptLess_Framework//src//main//java//dataEngine//DataEngine.xlsx"/>
+  <parameter name="screenshotsloc" value= "C:\\TestExecutionRuns\\"/>
+           <classes>
+			<class name="executionEngine.DriverScript">
+			</class>
+		</classes>
+    </test>
+    
+    
+    <!--  
+     <test name="RUN-GRID-iOS-TescoMobileApp">  
+        <parameter name="device_ID" value="d5f8fb43d4ce8a8c5ab0f9a03a176fcfa510c697" />
+         <parameter name="platformName" value="iOS" />
+        <parameter name="os_Version" value="9.3.2" />
+        <parameter name="bundleID" value="com.tesco.grocery" />
+        <parameter name="appPackage" value="" />
+        <parameter name="appActivity" value="" />
+          <parameter name="appType" value="NATIVE"/>
+         <parameter name="platform" value="GRID" />
+        <parameter name="user" value=""/>
+        <parameter name="password" value=""/>
+        <parameter name="url" value="http://9.79.231.148:5554/wd/hub:5554/wd/hub"/>
+  <parameter name="datasheetloc" value="C://ECLIPSE_WORKSPACE//GITHUBREPOSITORY//APPIUM_SCRIPTLESSFRAMEWORK//Appium_ScriptLess_Framework//src//main//java//dataEngine//DataEngine.xlsx"/>
   <parameter name="screenshotsloc" value= "C:\\TestExecutionRuns\\"/>
         <classes>
 			<class name="executionEngine.DriverScript">
@@ -202,4 +229,5 @@
 		</classes>
     </test>
     
+    -->
 </suite> <!-- Suite -->

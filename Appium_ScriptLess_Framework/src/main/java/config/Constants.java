@@ -23,8 +23,9 @@ public class Constants {
 	public static final int Col_TestStepDesc =2 ;
 	public static final int Col_Keyword =3 ;
 	public static final int Col_ObjectRef =4 ;
-	public static final int Col_InputParams =5 ;
-	public static final int Col_TestStepResult =6 ;
+	public static final int Col_ObjectType =5 ;
+	public static final int Col_InputParams =6 ;
+	public static final int Col_TestStepResult =7 ;
 		
 	// Data Engine Excel sheets
 	public static final String Sheet_TestSteps = "Test Steps";

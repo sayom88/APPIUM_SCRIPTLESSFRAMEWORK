@@ -48,7 +48,7 @@ public class DriverScript {
 	public  String sTestStepID;
 	public  String sRunMode;
 	public  String sData;
-	public  static boolean bResult;
+	public  boolean bResult;
 	public  String sDevice_ID;
 	public  String sOS_Version;
 	public  String sappPackage;
@@ -223,7 +223,7 @@ public class DriverScript {
 			    				
 			    				actionKeywords.setMethod_Screencapture(fileLocdir, sTestStepID);
 			    				
-			    				method[i].invoke(actionKeywords,sObjectRef,sInputParams,sObjectType);
+			    				method[i].invoke(actionKeywords,sObjectRef,sInputParams,sObjectType,bResult);
 			    				
 			    				
 			    				Thread.sleep(1000);

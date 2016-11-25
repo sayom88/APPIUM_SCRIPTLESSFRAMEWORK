@@ -185,7 +185,8 @@
     
    -->
    
-   <test name="RUN-GRID-Andriod-CitiMobileApp">  
+    
+   <test name="RUN-GRID1(SAYOM'S MOBILE)-Andriod-WEB-TESCO MOBILE APP">  
         <parameter name="device_ID" value="4200fe92d47572d1" />
          <parameter name="platformName" value="Andriod" />
         <parameter name="os_Version" value="5.1.1" />
@@ -198,7 +199,53 @@
          <parameter name="platform" value="GRID" />
         <parameter name="user" value=""/>
         <parameter name="password" value=""/>
-        <parameter name="url" value="http://9.77.80.194:5554/wd/hub"/>
+        <parameter name="url" value="http://9.77.88.218:5556/wd/hub"/>
+  <parameter name="datasheetloc" value="C://ECLIPSE_WORKSPACE//GITHUBREPOSITORY//APPIUM_SCRIPTLESSFRAMEWORK//Appium_ScriptLess_Framework//src//main//java//dataEngine//DataEngine.xlsx"/>
+  <parameter name="screenshotsloc" value= "C:\\TestExecutionRuns\\"/>
+           <classes>
+			<class name="executionEngine.DriverScript">
+			</class>
+		</classes>
+    </test>
+    
+   
+    
+   <test name="RUN-CLOUD1(PERFECTO)-Andriod-HYBRID-TESCO MOBILE APP">  
+        <parameter name="device_ID" value="031603B8357C2801" />
+         <parameter name="platformName" value="Andriod" />
+        <parameter name="os_Version" value="6.0.1" />
+        <parameter name="bundleID" value="" />
+       <parameter name="appPackage" value="com.tesco.grocery.view" />
+        <parameter name="appActivity" value="md50c9efa6bac9366ed33bd663294b9f0f7.TabSplashScreenActivity" />
+        <parameter name="appurl" value="" />
+        <parameter name="appbrowser" value="" />  
+          <parameter name="appType" value="HYBRID"/>
+         <parameter name="platform" value="PERFECTO" />
+        <parameter name="user" value="sayoghos@in.ibm.com"/>
+        <parameter name="password" value="qwer1234"/>
+        <parameter name="url" value="https://ibmgbs.perfectomobile.com/nexperience/perfectomobile/wd/hub"/>
+  <parameter name="datasheetloc" value="C://ECLIPSE_WORKSPACE//GITHUBREPOSITORY//APPIUM_SCRIPTLESSFRAMEWORK//Appium_ScriptLess_Framework//src//main//java//dataEngine//DataEngine.xlsx"/>
+  <parameter name="screenshotsloc" value= "C:\\TestExecutionRuns\\"/>
+           <classes>
+			<class name="executionEngine.DriverScript">
+			</class>
+		</classes>
+    </test>
+    
+    <test name="RUN-CLOUD2(PERFECTO)-Andriod-WEB-TESCO MOBILE APP">  
+        <parameter name="device_ID" value="2F984FFA" />
+         <parameter name="platformName" value="Andriod" />
+        <parameter name="os_Version" value="5.0" />
+        <parameter name="bundleID" value="" />
+       <parameter name="appPackage" value="" />
+        <parameter name="appActivity" value="" />
+         <parameter name="appurl" value="http://www.tesco.com" />
+        <parameter name="appbrowser" value="" />  
+          <parameter name="appType" value="WEB"/>
+         <parameter name="platform" value="PERFECTO" />
+        <parameter name="user" value="sayoghos@in.ibm.com"/>
+        <parameter name="password" value="qwer1234"/>
+        <parameter name="url" value="https://ibmgbs.perfectomobile.com/nexperience/perfectomobile/wd/hub"/>
   <parameter name="datasheetloc" value="C://ECLIPSE_WORKSPACE//GITHUBREPOSITORY//APPIUM_SCRIPTLESSFRAMEWORK//Appium_ScriptLess_Framework//src//main//java//dataEngine//DataEngine.xlsx"/>
   <parameter name="screenshotsloc" value= "C:\\TestExecutionRuns\\"/>
            <classes>
@@ -208,26 +255,53 @@
     </test>
     
     
-    <!--  
-     <test name="RUN-GRID-iOS-TescoMobileApp">  
-        <parameter name="device_ID" value="d5f8fb43d4ce8a8c5ab0f9a03a176fcfa510c697" />
+              <test name="RUN-CLOUD4(PERFECTO)-iOS-WEB-TESCO MOBILE APP">  
+        <parameter name="device_ID" value="5E55AA8120DA00C35071A0B81AFC009AE86E7463" />
          <parameter name="platformName" value="iOS" />
-        <parameter name="os_Version" value="9.3.2" />
-        <parameter name="bundleID" value="com.tesco.grocery" />
-        <parameter name="appPackage" value="" />
+        <parameter name="os_Version" value="9.1" />
+        <parameter name="bundleID" value="" />
+       <parameter name="appPackage" value="" />
         <parameter name="appActivity" value="" />
-          <parameter name="appType" value="NATIVE"/>
-         <parameter name="platform" value="GRID" />
-        <parameter name="user" value=""/>
-        <parameter name="password" value=""/>
-        <parameter name="url" value="http://9.79.231.148:5554/wd/hub:5554/wd/hub"/>
+         <parameter name="appurl" value="http://www.tesco.com" />
+        <parameter name="appbrowser" value="" />  
+          <parameter name="appType" value="WEB"/>
+         <parameter name="platform" value="PERFECTO" />
+        <parameter name="user" value="sayoghos@in.ibm.com"/>
+        <parameter name="password" value="qwer1234"/>
+        <parameter name="url" value="https://ibmgbs.perfectomobile.com/nexperience/perfectomobile/wd/hub"/>
   <parameter name="datasheetloc" value="C://ECLIPSE_WORKSPACE//GITHUBREPOSITORY//APPIUM_SCRIPTLESSFRAMEWORK//Appium_ScriptLess_Framework//src//main//java//dataEngine//DataEngine.xlsx"/>
   <parameter name="screenshotsloc" value= "C:\\TestExecutionRuns\\"/>
-        <classes>
+           <classes>
 			<class name="executionEngine.DriverScript">
 			</class>
 		</classes>
     </test>
     
-    -->
+    
+     <test name="RUN-CLOUD3(PERFECTO)-iOS-HYBRID-TESCO MOBILE APP">  
+        <parameter name="device_ID" value="78BE005F98E1545524A2360A1829EC06A5ADADE6" />
+         <parameter name="platformName" value="iOS" />
+        <parameter name="os_Version" value="9.3.4" />
+        <parameter name="bundleID" value="com.tesco.grocery" />
+       <parameter name="appPackage" value="" />
+        <parameter name="appActivity" value="" />
+        <parameter name="appurl" value="" />
+        <parameter name="appbrowser" value="" />  
+          <parameter name="appType" value="HYBRID"/>
+         <parameter name="platform" value="PERFECTO" />
+        <parameter name="user" value="sayoghos@in.ibm.com"/>
+        <parameter name="password" value="qwer1234"/>
+        <parameter name="url" value="https://ibmgbs.perfectomobile.com/nexperience/perfectomobile/wd/hub"/>
+  <parameter name="datasheetloc" value="C://ECLIPSE_WORKSPACE//GITHUBREPOSITORY//APPIUM_SCRIPTLESSFRAMEWORK//Appium_ScriptLess_Framework//src//main//java//dataEngine//DataEngine.xlsx"/>
+  <parameter name="screenshotsloc" value= "C:\\TestExecutionRuns\\"/>
+           <classes>
+			<class name="executionEngine.DriverScript">
+			</class>
+		</classes>
+  </test>
+  
+ 
+  
+  
+    
 </suite> <!-- Suite -->

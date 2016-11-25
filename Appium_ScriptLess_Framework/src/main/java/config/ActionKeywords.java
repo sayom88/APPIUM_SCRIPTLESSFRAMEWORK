@@ -13,6 +13,7 @@ import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.By;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.Platform;
+import org.openqa.selenium.ScreenOrientation;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -31,7 +32,7 @@ import io.appium.java_client.remote.MobileCapabilityType;
 import utility.*;
 import config.*;
 
-public class ActionKeywords extends BaseTest {
+public class ActionKeywords {
 	
 	public RemoteWebDriver driver;
 	
@@ -102,23 +103,23 @@ public class ActionKeywords extends BaseTest {
 		System.out.println(aappPack);
 		System.out.println(aappAct);
 		
+		if(aplatform.equalsIgnoreCase("PERFECTO") && aappType.equalsIgnoreCase("WEB"))
+		{
+		 capabilities_cloud.setCapability("deviceName", adeviceid);
+		 capabilities_cloud.setCapability("platformName", aplatformName);
+		 capabilities_cloud.setCapability("automationName","Appium");
+		 capabilities_cloud.setCapability("platformVersion", aosversion);
+		}
 		
-		 
-		/*
-	        capabilities.setCapability("deviceName", adeviceid);
-	        capabilities.setCapability("platformName", "Andriod");
-	    	 capabilities.setCapability("automationName","Appium");
-	    	//capabilities.setCapability("BROWSER_NAME", "Android");
-	    	//capabilities.setCapability("platformVersion",os_version); 
-	    
-	    	 capabilities.setCapability("appPackage",aappPack);
-	    capabilities.setCapability("appActivity",aappAct);
-	    */
-		
+		else
+		{
 		 capabilities.setCapability("deviceName", adeviceid);
 		 capabilities.setCapability("platformName", aplatformName);
 		 capabilities.setCapability("automationName","Appium");
 		 capabilities.setCapability("platformVersion", aosversion);
+		}
+		
+		
 		
 		 
 		//cap.setCapability(MobileCapabilityType.APP, "/Users/ibm/Library/Developer/Xcode/DerivedData/TestApp-fixmfzmpklbymjctcckekkvpbgec/Build/Products/Debug-iphoneos/TestApp.app");
@@ -126,7 +127,7 @@ public class ActionKeywords extends BaseTest {
 	}
 
 		
-		public void Launch(String objectref, String inputparam,String objectType){
+		public void Launch(String objectref, String inputparam,String objectType,boolean bResult){
 			try{
 				Log.info("Launch Mobile App");
 				  
@@ -134,7 +135,7 @@ public class ActionKeywords extends BaseTest {
 				System.out.println("...................Launch Mobile App Event Started........");
 				
 				
-				if((aappType.equalsIgnoreCase("NATIVE") || aappType.equalsIgnoreCase("HYBRID") ) && aplatform.equalsIgnoreCase("PERFECTOMOBILE") && aplatformName.equalsIgnoreCase("Andriod"))
+				if((aappType.equalsIgnoreCase("NATIVE") || aappType.equalsIgnoreCase("HYBRID") ) && aplatform.equalsIgnoreCase("PERFECTO") && aplatformName.equalsIgnoreCase("Andriod"))
 				{
 					
 					  
@@ -159,7 +160,7 @@ public class ActionKeywords extends BaseTest {
 				     	   }
 				}
 				
-				if ((aappType.equalsIgnoreCase("NATIVE") || aappType.equalsIgnoreCase("HYBRID") ) && aplatform.equalsIgnoreCase("PERFECTOMOBILE") && aplatformName.equalsIgnoreCase("iOS"))
+				if ((aappType.equalsIgnoreCase("NATIVE") || aappType.equalsIgnoreCase("HYBRID") ) && aplatform.equalsIgnoreCase("PERFECTO") && aplatformName.equalsIgnoreCase("iOS"))
 				{
 					
 					  
@@ -263,6 +264,69 @@ public class ActionKeywords extends BaseTest {
 			     	   
 			     	  
 				}
+				
+
+				if(aappType.equalsIgnoreCase("WEB") && aplatform.equalsIgnoreCase("PERFECTO") && aplatformName.equalsIgnoreCase("Andriod"))
+				{
+					
+					  
+					setupCapabilities();
+					capabilities_cloud.setCapability("user",auser);
+					capabilities_cloud.setCapability("password", apassword);
+					
+					System.out.println("Into Device ID:"+adeviceid);
+			
+					driver = new AndroidDriver(new URL(aurl), capabilities_cloud);
+					 driver.manage().timeouts().implicitlyWait(80, TimeUnit.SECONDS);
+					 
+					 driver.navigate().to(aappurl);
+					 //((AppiumDriver) driver).rotate(ScreenOrientation.LANDSCAPE);
+					 
+					 Thread.sleep(2000);
+					 captureScreenShot(driver);
+					 
+					  Set contextNames = ((AppiumDriver) driver).getContextHandles();
+				     	 Iterator iterator =  contextNames.iterator(); 
+				     	   while (iterator.hasNext()){
+				     		   String contextName=iterator.next().toString();
+				     		  contexts.add(contextName);
+				     	//System.out.println(contextName);
+				     	   }
+			     	  
+				}
+				
+				
+
+				if(aappType.equalsIgnoreCase("WEB") && aplatform.equalsIgnoreCase("PERFECTO") && aplatformName.equalsIgnoreCase("iOS"))
+				{
+					
+					  
+					setupCapabilities();
+					capabilities_cloud.setCapability("user",auser);
+					capabilities_cloud.setCapability("password", apassword);
+					
+					System.out.println("Into Device ID:"+adeviceid);
+			
+					driver = new IOSDriver(new URL(aurl), capabilities_cloud);
+					 driver.manage().timeouts().implicitlyWait(80, TimeUnit.SECONDS);
+					
+					  driver.executeScript("mobile:browser:open");
+					 driver.navigate().to(aappurl);
+					 //((AppiumDriver) driver).rotate(ScreenOrientation.LANDSCAPE);
+					 
+					 Thread.sleep(2000);
+					 captureScreenShot(driver);
+					 
+					  Set contextNames = ((AppiumDriver) driver).getContextHandles();
+				     	 Iterator iterator =  contextNames.iterator(); 
+				     	   while (iterator.hasNext()){
+				     		   String contextName=iterator.next().toString();
+				     		  contexts.add(contextName);
+				     	//System.out.println(contextName);
+				     	   }
+			     	  
+				}
+				
 				/*
 				
 				//GIRISH's iOS SIMULATOR
@@ -336,13 +400,14 @@ public class ActionKeywords extends BaseTest {
 				
 			 }catch(Exception e){
 	 			Log.error("Not able to click --- " + e.getMessage());
-	 			DriverScript.bResult = false;
+	 			bResult = false;
 	         	}
 			}
 		
-		
 	
-	public void Tap(String objectref, String inputparam,String objectType)
+		//driver.rotate(ScreenOrientation.LANDSCAPE);
+	
+	public void Tap(String objectref, String inputparam,String objectType,boolean bResult)
 	 {
 		try{
 			
@@ -392,39 +457,12 @@ public class ActionKeywords extends BaseTest {
 			
 		 }catch(Exception e){
  			Log.error("Not able to click --- " + e.getMessage());
- 			DriverScript.bResult = false;
+ 			bResult = false;
          	}
 		}
 	
-	public  void Swipe(String objectref, String inputparam,String objectType)
-	 {
-		try{
-			
-			Thread.sleep(1000);
-			
-			System.out.println("Into Swipe() :: Driver Is:"+driver);
-			
-			Log.info("Swipping on element "+ inputparam);
-			
-			System.out.println("...................Swipe Event Started........");
-		
-		
-			((AndroidDriver) driver).scrollTo(inputparam);
-		
-			System.out.println("...............Swipe Event Completed........");
-			
-			
-			Thread.sleep(2000);
-			
-			captureScreenShot(driver);
-			
-		 }catch(Exception e){
-			Log.error("Not able to click --- " + e.getMessage());
-			DriverScript.bResult = false;
-        	}
-		}
 	
-	public void Enter(String objectref, String inputparam,String objectType){
+	public void Enter(String objectref, String inputparam,String objectType,boolean bResult){
 		try{
 			
 			Thread.sleep(1000);
@@ -461,15 +499,22 @@ public class ActionKeywords extends BaseTest {
 
 	  System.out.println("Current Context of Driver Is:"+((AppiumDriver) driver).getContext());
 	  
+	  if(aplatformName.equalsIgnoreCase("Andriod"))
+	  {
 	  ((AppiumDriver)driver).findElementByXPath(objectref);
 	  ((AppiumDriver)driver).getKeyboard().sendKeys(inputparam);
-	 //driver.findElement(By.xpath(objectref)).sendKeys(inputparam);
-	
+	  }
+	  else
+	  {
+	 driver.findElement(By.xpath(objectref)).sendKeys(inputparam);
+	  }
 	  
 	//  ((AppiumDriver)driver).navigate().back();
 	 
 			System.out.println("...............Enter Event Completed........");
 	
+			Thread.sleep(1000);
+			
 			captureScreenShot(driver);
 			Thread.sleep(2000);
 			
@@ -477,30 +522,12 @@ public class ActionKeywords extends BaseTest {
 		 }catch(Exception e){
 			 e.printStackTrace();
 			 Log.error("Not able to Enter UserName --- " + e.getMessage());
-			 DriverScript.bResult = false;
+			 bResult = false;
 		 	}
 		}
 	
 
-	public void waitFor(String object, String data) throws Exception{
-		try{
-			Log.info("Wait for 5 seconds");
-			Thread.sleep(5000);
-		 }catch(Exception e){
-			 Log.error("Not able to Wait --- " + e.getMessage());
-			 DriverScript.bResult = false;
-         	}
-		}
-
-	public void Close(String object, String data){
-		try{
-			Log.info("Closing the browser");
-			driver.quit();
-		 }catch(Exception e){
-			 Log.error("Not able to Close the Browser --- " + e.getMessage());
-			 DriverScript.bResult = false;
-         	}
-		}
+	
 	
 	public void captureScreenShot(RemoteWebDriver driver) throws Exception{
 		// Take screenshot and store as a file format             

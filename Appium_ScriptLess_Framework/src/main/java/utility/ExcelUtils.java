@@ -23,7 +23,7 @@ import executionEngine.DriverScript;
                     ExcelWBook = new XSSFWorkbook(ExcelFile);
             	} catch (Exception e){
             		Log.error("Class Utils | Method setExcelFile | Exception desc : "+e.getMessage());
-            		DriverScript.bResult = false;
+            		new DriverScript().bResult = false;
                 	}
             	}
             
@@ -35,20 +35,20 @@ import executionEngine.DriverScript;
                     return CellData;
                  }catch (Exception e){
                      Log.error("Class Utils | Method getCellData | Exception desc : "+e.getMessage());
-                     DriverScript.bResult = false;
+                 	new DriverScript().bResult = false;
                      return"";
                      }
                  }
             
         	
-        	public static int getRowCount(String SheetName){
+        	public static int getRowCount(String SheetName)throws Exception{
         		int iNumber=0;
         		try {
         			ExcelWSheet = ExcelWBook.getSheet(SheetName);
         			iNumber=ExcelWSheet.getLastRowNum()+1;
         		} catch (Exception e){
         			Log.error("Class Utils | Method getRowCount | Exception desc : "+e.getMessage());
-        			DriverScript.bResult = false;
+        			new DriverScript().bResult = false;
         			}
         		return iNumber;
         		}
@@ -65,7 +65,7 @@ import executionEngine.DriverScript;
         			}       			
         		} catch (Exception e){
         			Log.error("Class Utils | Method getRowContains | Exception desc : "+e.getMessage());
-        			DriverScript.bResult = false;
+        			new DriverScript().bResult = false;
         			}
         		return iRowNum;
         		}
@@ -83,7 +83,7 @@ import executionEngine.DriverScript;
 	        		return number;
         		} catch (Exception e){
         			Log.error("Class Utils | Method getRowContains | Exception desc : "+e.getMessage());
-        			DriverScript.bResult = false;
+        			new DriverScript().bResult = false;
         			return 0;
                 }
         	}
@@ -107,7 +107,7 @@ import executionEngine.DriverScript;
                          fileOut.close();
                          ExcelWBook = new XSSFWorkbook(new FileInputStream(datasheetloc));
                      }catch(Exception e){
-                    	 DriverScript.bResult = false;
+                    		new DriverScript().bResult = false;
               
                      }
                 }
